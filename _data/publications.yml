@@ -1,0 +1,80 @@
+# THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+
+#Style Guide: Publications
+# citation - double quotes, to avoid breaking on names with apostrophes
+# all other sections - indent with 2 spaces, strings in single quotes
+
+#Names of lab members should be bolded using the following convention: **Surname FM**.
+#If there are multiple lab members in a row, include them in one set of double asterisk pairs.
+#Use &#42; to add an asterisk denoting co-first/corresponding author. Otherwise, bolding of names using **Surname FM** will break.
+#For readability of code, start a new line around 140 characters.
+#All images and PDFs should be named using the following convention: surname_YYYY
+
+#Leave PMID and PMCID blank until an ID is assigned.
+
+#Do not include additional subsections if they are not relevant
+#to a publication (PDB, data, Zenodo, etc).
+
+#Order of links: GitHub/Data/Server, Lab Websites (alphabetical order), Facility, Twitter, F1000, News Articles
+#Put article strings in single quotes since they are separated by a colon -- i.e. CNN: Article Name.
+
+#Example Publication
+# - title: "Title here"
+#   citation: "Surname FM, **Fraser JS.** Title of article. *Submitted - Preprint on Biorxiv*. YYYY."
+#   date: 'YYYYMM'
+#   image: '/static/img/pub/surname_YYYY.png'
+#   pmid: '########'
+#   pmcid: 'PMC#######'
+#   biorxiv: 'YYYY.MM.DD.######'
+#   pdf: '/static/pdf/publications/surname_YYYY.pdf'
+#   data:
+#     - '10.11577/1602169'
+#   zenodo:
+#     - code: '3555658'
+#       description: qPTxM code snapshot
+#   links:
+#     - name: Fujimori lab  @ UC San Francisco
+#       url: https://fujimorilab.ucsf.edu
+#     - name: Gonen lab @ UC Los Angeles
+#       url: https://cryoem.ucla.edu/
+#     - name: SACLA XFEL
+#       url: http://xfel.riken.jp/eng/
+#     - name: qPTxM code on GitHub
+#       url: https://github.com/fraser-lab/qptm
+#     - name: Celebratory Tweetstorm by first author First Surname
+#       url: https://twitter.com/LifeHasOrder/status/1172327493451145218
+#     - name: Celebratory Tweetstorm by corresponding author First Surname
+#       url: https://twitter.com/mctucsf/status/1172334750205218816
+
+ - title: "The impact of the genetic background on gene deletion phenotypes in Saccharomyces cerevisiae"
+   citation: "**Galardini, M.**, Busby, B. P., Vieitez, C., Dunham, A. S., Typas, A., & Beltrao, P. (2019). The impact of the genetic background on gene deletion phenotypes in Saccharomyces cerevisiae. Molecular Systems Biology, 15(12)."
+   date: '201912'
+   image: '/static/img/pub/galardini_2019.jpg'
+   pmid: '31885205'
+   pmcid: 'PMC6901017'
+   previous: 'yes'
+   links:
+     - name: Analysis pipeline for the paper
+       url: https://github.com/mgalardini/2018koyeast
+
+ - title: "pyseer: a comprehensive tool for microbial pangenome-wide association studies"
+   citation: "Lees, J. A., **Galardini, M.**, Bentley, S. D., Weiser, J. N., & Corander, J. (2018). pyseer: a comprehensive tool for microbial pangenome-wide association studies. Bioinformatics, 34(24), 4310-4312."
+   date: '201812'
+   image: '/static/img/pub/lees_2018.png'
+   pmid: '30535304'
+   pmcid: 'PMC6289128'
+   previous: 'yes'
+   links:
+     - name: pyseer docs
+       url: https://pyseer.readthedocs.io
+
+ - title: "Phenotype inference in an Escherichia coli strain panel"
+   citation: "**Galardini, M.**, Koumoutsi, A., Herrera, C. M., Cordero Varela, J. A., Telzerow, A., Wagih O., Wartel M., Clermont O., Denamur E., Typas, A., Beltrao, P. (2017). Phenotype inference in an Escherichia coli strain panel. eLife, 6."
+   date: '201712'
+   image: '/static/img/pub/galardini_2017.jpg'
+   pmid: '29280730'
+   pmcid: 'PMC5745082'
+   previous: 'yes'
+   links:
+     - name: All data generated from the E. coli strain panel
+       url: https://evocellnet.github.io/ecoref/
