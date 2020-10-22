@@ -1,4 +1,4 @@
-# microbial-pangenomes-lab.github.io
+microbial-pangenomes-lab.github.io
 ====================
 
 Technologies this website uses:  

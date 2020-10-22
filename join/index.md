@@ -11,7 +11,7 @@ group: join
 <div class="col col-md-4">
 ### Postdocs
 
-Perspective postdocs are encouraged to informally enquire about joining the lab. Please send an email describing one of your previous projects that might be relevant to the lab, a CV, and either a general proposal for a project or reasons why you think the lab might be a good fit for you and your career. If no funding is available you may be directed to look into applying for postdoctoral fellowships. 
+Perspective postdocs are encouraged to informally enquire about joining the lab. Please send an email describing one of your previous projects that might be relevant to the lab, a CV, and either a general proposal for a project or reasons why you think the lab might be a good fit for you and your career. 
 </div>
 
 <div class="col col-md-4">
