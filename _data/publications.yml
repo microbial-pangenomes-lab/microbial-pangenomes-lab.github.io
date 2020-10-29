@@ -46,12 +46,27 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Major role of iron uptake systems in the intrinsic extra-intestinal virulence of the genus Escherichia revealed by a genome-wide association study"
+   citation: "**Galardini M.**, Clermont O., Baron A., Busby B., Dion S., Schubert S., Beltrao P. & Denamur E. (2020). Major role of iron uptake systems in the intrinsic extra-intestinal virulence of the genus Escherichia revealed by a genome-wide association study. PLOS Genetics 16(10): e1009065."
+   date: '202010'
+   image: '/static/img/pub/galardini_2020.jpg'
+   pmid: '33112851'
+   #pmcid: 'PMCXXX'
+   biorxiv: '712034'
+   previous: 'yes'
+   links:
+     - name: Analysis pipeline for the paper
+       url: https://github.com/mgalardini/2018_ecoli_pathogenicity
+     - name: Input genome sequences
+       url: https://doi.org/10.6084/m9.figshare.11879340.v1
+ 
  - title: "The impact of the genetic background on gene deletion phenotypes in Saccharomyces cerevisiae"
    citation: "**Galardini, M.**, Busby, B. P., Vieitez, C., Dunham, A. S., Typas, A., & Beltrao, P. (2019). The impact of the genetic background on gene deletion phenotypes in Saccharomyces cerevisiae. Molecular Systems Biology, 15(12)."
    date: '201912'
    image: '/static/img/pub/galardini_2019.jpg'
    pmid: '31885205'
    pmcid: 'PMC6901017'
+   biorxiv: '487439'
    previous: 'yes'
    links:
      - name: Analysis pipeline for the paper
@@ -63,6 +78,7 @@
    image: '/static/img/pub/lees_2018.png'
    pmid: '30535304'
    pmcid: 'PMC6289128'
+   biorxiv: '266312'
    previous: 'yes'
    links:
      - name: pyseer docs
@@ -74,6 +90,7 @@
    image: '/static/img/pub/galardini_2017.jpg'
    pmid: '29280730'
    pmcid: 'PMC5745082'
+   biorxiv: '141879'
    previous: 'yes'
    links:
      - name: All data generated from the E. coli strain panel
