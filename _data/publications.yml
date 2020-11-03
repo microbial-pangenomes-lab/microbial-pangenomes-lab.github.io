@@ -51,7 +51,7 @@
    date: '202010'
    image: '/static/img/pub/galardini_2020.jpg'
    pmid: '33112851'
-   #pmcid: 'PMCXXX'
+   pmcid: 'PMC7592755'
    biorxiv: '712034'
    previous: 'yes'
    links:
