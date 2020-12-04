@@ -17,8 +17,6 @@ Perspective postdocs are encouraged to informally enquire about joining the lab.
 <div class="col col-md-4">
 ### Graduate Students
 
-**We are currently looking for a PhD student!** More information, including how to apply, can be found [here](/static/pdf/jobs/202010_ml_pangenome.pdf). Please apply before 4/11/2020.
-
 The lab accepts graduate students from the [ZIB PhD program](https://www.mhh.de/hbrs/zib/). Applications are open each year between December and April. Find more up to date information about the program [on their website](https://www.mhh.de/hbrs/zib/program-details).
 </div>
 
