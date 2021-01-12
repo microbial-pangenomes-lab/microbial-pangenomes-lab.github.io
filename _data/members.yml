@@ -23,7 +23,7 @@
 - name: Bamu Fufor Damaris
   short: bfufordamaris
   image: /static/img/members/bug.png
-#  image: /static/img/members/fufordamaris.jpg
+  image: /static/img/members/fufordamaris.jpg
 #  altimage: /static/img/members/fufordamaris_alt.jpg
   position: PhD student (ZIB)
   email: bamu.fufordamaris (at) twincore.de
