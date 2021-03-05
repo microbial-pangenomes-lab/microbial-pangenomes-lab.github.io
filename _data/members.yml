@@ -22,7 +22,6 @@
 
 - name: Bamu Fufor Damaris
   short: bfufordamaris
-  image: /static/img/members/bug.png
   image: /static/img/members/fufordamaris.jpg
 #  altimage: /static/img/members/fufordamaris_alt.jpg
   position: PhD student (ZIB)
@@ -41,3 +40,21 @@
 
   On her less busy days, she enjoys mentoring high school students back in Cameroon. Travelling and \
   photography is a recent hobby which she picked up in her short time in Europe."
+
+- name: Dilfuza Djamalova
+  short: ddjamalova
+  image: /static/img/members/bug.png
+#  altimage: /static/img/members/djamalova_alt.jpg
+  position: PhD student (ZIB)
+  email: dilfuza.djamalova (at) twincore.de
+  twitter: DilfuzaDjamalo1
+  description: "Dilfuza Djamalova is a PhD candidate in the ZIB program at the Hannover Medical School. \
+  She did her Bachelor's at the National University of Uzbekistan and Master's at the \
+  Skolkovo Institute of Science and Technology (Moscow, Russia). During her bachelor's, \
+  she conducted research on studying the plant growth-promoting potential of endophytes of \
+  halotolerant plants at Yerevan State University under the EURASIA-funded exchange program \
+  of the Norwegian Center for International Cooperation in Education. \
+  She has an interest in studying the evolutionary dynamics of bacterial species through the light of their life-styles.
+
+
+  Apart from research, Dilfuza has a musical background and is fond of programming."
