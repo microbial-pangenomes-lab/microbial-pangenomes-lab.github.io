@@ -11,8 +11,6 @@ group: join
 <div class="col col-md-4">
 ### Postdocs
 
-<b>We are currently looking to hire a postdoc! Find more information <a href="../2021/02/12/Postdoc-position/">here</a></b> 
-
 Perspective postdocs are encouraged to informally enquire about joining the lab. Please send an email describing one of your previous projects that might be relevant to the lab, a CV, and either a general proposal for a project or reasons why you think the lab might be a good fit for you and your career. 
 </div>
 
