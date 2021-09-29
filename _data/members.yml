@@ -22,7 +22,7 @@
 
 - name: Adam Mulkern
   short: amulkern
-  image: /static/img/members/bug.png
+  image: /static/img/members/mulkern.jpg
 #  altimage: /static/img/members/djamalova_alt.jpg
   position: Postdoc
   email: adam.mulkern (at) twincore.de
@@ -79,7 +79,7 @@
 
 - name: Hannes Neubauer
   short: hneubauer
-  image: /static/img/members/bug.png
+  image: /static/img/members/neubauer.jpg
 #  altimage: /static/img/members/djamalova_alt.jpg
   position: PhD student (ZIB)
   email: hannes.neubauer (at) twincore.de
@@ -96,7 +96,7 @@
 
 - name: Judit Burgaya Ventura
   short: jburgaya
-  image: /static/img/members/bug.png
+  image: /static/img/members/burgayaventura.jpg
 #  altimage: /static/img/members/djamalova_alt.jpg
   position: PhD student (ZIB)
   email: judit.ventura (at) twincore.de
