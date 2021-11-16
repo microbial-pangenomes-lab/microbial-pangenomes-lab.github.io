@@ -46,6 +46,21 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Genome wide association study of human bacteremia Escherichia coli isolates identifies genetic determinants for the portal of entry but not fatal outcome"
+   citation: "Denamur, E., Condamine, B., Esposito-Farèse, M., Royer, G., Clermont, O., Laouenan, C., ... & **Galardini, M.** (2021). Genome wide association study of human bacteremia Escherichia coli isolates identifies genetic determinants for the portal of entry but not fatal outcome. medRxiv"
+   date: '202111'
+   image: '/static/img/pub/denamur_2021.jpg'
+   medrxiv: '2021.11.09.21266136'
+   links:
+     - name: Analysis pipeline for the paper
+       url: https://github.com/microbial-pangenomes-lab/2021_ecoli_pathogenicity
+     - name: Input genome sequences (Colibafi)
+       url: https://www.ebi.ac.uk/ena/browser/view/PRJEB39260
+     - name: Input genome sequences (Septicoli)
+       url: https://www.ebi.ac.uk/ena/browser/view/PRJEB35745
+     - name: Twitter summary thread
+       url: https://twitter.com/mgalactus/status/1460183203784835076
+ 
  - title: "Major role of iron uptake systems in the intrinsic extra-intestinal virulence of the genus Escherichia revealed by a genome-wide association study"
    citation: "**Galardini M.**, Clermont O., Baron A., Busby B., Dion S., Schubert S., Beltrao P. & Denamur E. (2020). Major role of iron uptake systems in the intrinsic extra-intestinal virulence of the genus Escherichia revealed by a genome-wide association study. PLOS Genetics 16(10): e1009065."
    date: '202010'
