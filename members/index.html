@@ -6,14 +6,12 @@ group: members
 
 <h1>Lab Members</h1>
 
-{% for person in site.data.members %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
-<div id = "{{person.short}}" class="row" style="padding-top: 60px; margin-top: -60px;">
-    <div class="col-sm-4">
+<div class="row">
+{% for person in site.data.members %}
+    <div id = "{{person.short}}" style="padding-bottom: 30px" class="col-sm-4">
         <img class="img-fluid" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"; width="250"; height="250"><br>
-    </div>
-    <div class="col-sm-8">
         <strong>{{person.name}}</strong> <br>
         {{person.position}} <br>
         <em>{{person.email}}</em> <br>
@@ -40,8 +38,8 @@ group: members
           <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/github_logo.svg"></a>
           <a href= "http://github.com/{{person.github}}"> {{person.github}} </a> 
         {% endif %}
-        <p class="text-justify">{{person.description | markdownify}}</p>
+	<!-- <p class="text-justify">{{person.description | markdownify}}</p> -->
     </div>
-</div>
 {% endfor %}
+</div>
 <hr>
