@@ -47,9 +47,11 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
  - title: "Genome wide association study of human bacteremia Escherichia coli isolates identifies genetic determinants for the portal of entry but not fatal outcome"
-   citation: "Denamur, E., Condamine, B., Esposito-Farèse, M., Royer, G., Clermont, O., Laouenan, C., ... & **Galardini, M.** (2021). Genome wide association study of human bacteremia Escherichia coli isolates identifies genetic determinants for the portal of entry but not fatal outcome. medRxiv"
+   citation: "Denamur, E., Condamine, B., Esposito-Farèse, M., Royer, G., Clermont, O., Laouenan, C., ... & **Galardini, M.** (2022). Genome wide association study of human bacteremia Escherichia coli isolates identifies genetic determinants for the portal of entry but not fatal outcome. PLoS Genet. 2022;18(3):e1010112."
    date: '202111'
    image: '/static/img/pub/denamur_2021.jpg'
+   pmid: '35324915'
+   pmcid: 'PMC8946752'
    medrxiv: '2021.11.09.21266136'
    links:
      - name: Analysis pipeline for the paper
