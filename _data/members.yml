@@ -26,6 +26,7 @@
 #  altimage: /static/img/members/djamalova_alt.jpg
   position: Postdoc
   email: adam.mulkern (at) twincore.de
+  scholar: IzINMPkAAAAJ
   twitter: MulkernAdam 
   description: "Adam is a Postdoctoral Fellow at Hannover Medical School/Twincore. \
   He completed both a BSc and a PhD at Aberystwyth University in Wales, United Kingdom. \
@@ -118,13 +119,28 @@
   previously part of the Club Patí Voltregà, with which she won the European championship in 2019, \ 
   and now as part of the SC Bison Calenberg. Moreover, she is fond of different sports, and enjoys hiking and climbing as well."
 
-- name: Gabriel Innocenti
-  short: ginnocenti
-  image: /static/img/members/innocenti.jpg
+- name: Vũ Thu Hiền
+  short: hvuthu
+  image: /static/img/members/hien.jpg
+#  altimage: /static/img/members/djamalova_alt.jpg
+  position: PhD student (ZIB, supported by DAAD)
+  email: thuhien.vu (at) twincore.de
+  twitter: vuthuhien176
+
+- name: Jan Hornbostel
+  short: jhornbostel
+  image: /static/img/members/jan.jpg
   #  altimage: /static/img/members/djamalova_alt.jpg
-  position: Researcher
-  email: gabriel.innocenti (at) twincore.de
-  twitter: Gab_innocenti
-  github: gabrielinnocenti
-  linkedin: gabriel-innocenti
+  position: Master student (LUH)
+  email: jan.hornbostel (at) twincore.de
+
+#- name: Gabriel Innocenti
+#  short: ginnocenti
+#  image: /static/img/members/innocenti.jpg
+#  #  altimage: /static/img/members/djamalova_alt.jpg
+#  position: Researcher
+#  email: gabriel.innocenti (at) twincore.de
+#  twitter: Gab_innocenti
+#  github: gabrielinnocenti
+#  linkedin: gabriel-innocenti
 
