@@ -4,8 +4,10 @@ layout: default
 group: publications
 ---
 
-<h1>Publications</h1>
-<div class="container-fluid">
+<div class="container">
+<div class="row">
+	<ul class="col-sm-8">
+    <h3>Main publications</h3>
 
 {% for publication in site.data.publications %}
 <hr>
@@ -92,4 +94,94 @@ group: publications
 	</div>
 </div> <br>
 {% endfor %}
+    </ul>
+	<ul class="col-sm-4">
+        <h4>Other publications</h4>
+{% for publication in site.data.publications_others %}
+<hr>
+    <div>{{ publication.citation | markdownify }}</div>
+	        
+        <!--From the previous labs?
+        {% if publication.previous %}
+        <p class="text-muted">(this publication predates the Microbial Pangenomes Lab but it is relevant to its research interests)</p>
+        {% endif %}
+        -->
+        
+        <!--PMID-->
+        {% if publication.pmid %}
+        PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a>
+        </br>
+        {% endif %}
+
+        <!--PMCID - optional -->
+        {% if publication.pmcid %}
+        PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a>
+        <br>
+        {% endif %}
+
+        <!--Biorxiv - optional -->
+        {% if publication.biorxiv %}
+        Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a>
+        <br>
+        {% endif %}
+        
+        <!--Medrxiv - optional -->
+        {% if publication.medrxiv %}
+        Medrxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.medrxiv}}" alt = "medrxiv preprint link: {{publication.medrxiv}}"> {{publication.medrxiv}}</a>
+        <br>
+        {% endif %}
+
+        <!--Arxiv - optional -->
+        {% if publication.arxiv %}
+        arXiv Preprint: <a href="https://arxiv.org/abs/{{publication.arxiv}}" alt = "arxiv preprint link: {{publication.arxiv}}"> {{publication.arxiv}}</a>
+        <br>
+        {% endif %}
+
+        <!--Chemrxiv - optional -->
+        {% if publication.chemrxiv %}
+        ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}" alt = "chemrxiv preprint link: {{publication.chemrxiv}}"> {{publication.chemrxiv}}</a>
+        <br>
+        {% endif %}
+
+        <!-- PDF -->
+        {% if publication.pdf %}
+        <a href="{{publication.pdf}}" alt = "PDF"> Full Text</a>
+        <br>
+        {% endif %}
+
+        <!-- Datasets - optional -->
+        {% if publication.data %}
+        Online Dataset{% if publication.data.size > 1 %}s{% endif %}:
+            {% if publication.data.size > 1 %}
+            <ul>
+                {% for dataset in publication.data %}
+                <a href="http://dx.doi.org/{{dataset}}" alt = "sbgrid data repository">doi:{{dataset}}</a></li>
+                <br>
+                {% endfor %}
+            </ul>
+            {% else %}
+            <a href="http://dx.doi.org/{{publication.data}}" alt = "sbgrid data repository">doi:{{publication.data}}</a>
+            {% endif %}
+        <br>
+        {% endif %}
+
+        <!--zenodo records - optional-->
+        {% if publication.zenodo %}
+        Zenodo Record{% if publication.zenodo.size > 1 %}s{% endif %}:
+            {% for record in publication.zenodo %}
+            <a href="https://doi.org/10.5281/zenodo.{{record.code}}"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.{{record.code}}.svg" alt="DOI"></a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
+            {% endfor %}
+        <br>
+        {% endif %}
+
+        <!--Extra junk-->
+        {% if publication.links %}
+        {% for link in publication.links %}
+        Extra: <a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a>
+        <br>
+        {% endfor %}
+        {% endif %}
+{% endfor %}
+    </ul>
+</div>
 </div>
