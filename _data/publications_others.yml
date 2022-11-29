@@ -46,6 +46,11 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "High pathogenicity island, aer and sit operons: a “ménage à trois” in Escherichia coli extra-intestinal virulence"
+   citation: "Royer, G., Clermont, O., Condamine, B., Dion, S., **Galardini, M.**, & Denamur, E. (2022). High pathogenicity island, aer and sit operons: a 'ménage à trois' in Escherichia coli extra-intestinal virulence. bioRxiv."
+   date: '202211'
+   biorxiv: '2022.11.25.517969'
+ 
  - title: "Microbiome-derived antimicrobial peptides offer therapeutic solutions for the treatment of Pseudomonas aeruginosa infections"
    citation: "**Mulkern, A. J.**, Oyama, L. B., Cookson, A. R., Creevey, C. J., Wilkinson, T. J., Olleik, H., ... **Damaris B. F.**, ... & Huws, S. A. (2022). Microbiome-derived antimicrobial peptides offer therapeutic solutions for the treatment of Pseudomonas aeruginosa infections. NPJ biofilms and microbiomes, 8(1), 1-15."
    date: '202208'
@@ -56,7 +61,7 @@
    citation: "Bobonis, J., Mitosch, K., Mateus, A., Karcher, N., Kritikos, G., Selkrig, J., ... **Galardini, M.**, ... & Typas, A. (2022). Bacterial retrons encode phage-defending tripartite toxin–antitoxin systems. Nature, 609(7925), 144-150."
    date: '202207'
    pmid: '35850148'
-   biorxiv: '160168'
+   biorxiv: '2020.06.22.160168'
 
  - title: "High-throughput functional characterization of protein phosphorylation sites in yeast"
    citation: "Viéitez, C., Busby, B. P., Ochoa, D., Mateus, A., Memon, D., **Galardini, M.**, ... & Beltrao, P. (2022). High-throughput functional characterization of protein phosphorylation sites in yeast. Nature biotechnology, 40(3), 382-390."
