@@ -46,6 +46,21 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "The bacterial genetic determinants of Escherichia coli capacity to cause bloodstream infections in humans"
+   citation: "**Burgaya, J.**, Marin, J., Royer, G., Condamine, B., Gachet, B., Clermont, O., ... Denamur, E., **Galardini**, M. & Blanquart, F. (2023). The bacterial genetic determinants of Escherichia coli capacity to cause bloodstream infections in humans. bioRxiv, 2022-12."
+   date: '202301'
+   image: '/static/img/pub/burgaya_2023.jpg'
+   #pmid: '35324915'
+   #pmcid: 'PMC8946752'
+   biorxiv: '2022.12.31.522367'
+   links:
+     - name: Analysis pipeline for the paper
+       url: https://github.com/jburgaya/2022_ecoli_commensal 
+     - name: Mastodon summary thread
+       url: https://fediscience.org/@mgalactus/109624763227588844
+     - name: Twitter summary thread
+       url: https://twitter.com/mgalactus/status/1610307002529452032
+ 
  - title: "Genome wide association study of human bacteremia Escherichia coli isolates identifies genetic determinants for the portal of entry but not fatal outcome"
    citation: "Denamur, E., Condamine, B., Esposito-Farèse, M., Royer, G., Clermont, O., Laouenan, C., ... & **Galardini, M.** (2022). Genome wide association study of human bacteremia Escherichia coli isolates identifies genetic determinants for the portal of entry but not fatal outcome. PLoS Genet. 2022;18(3):e1010112."
    date: '202111'
