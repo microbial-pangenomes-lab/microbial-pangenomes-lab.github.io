@@ -46,6 +46,11 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "ChemGAPP; A Package for Chemical Genomics Analysis and Phenotypic Profiling."
+   citation: "Doherty, H. M., Kritikos, G., **Galardini, M.**, Banzhaf, M., & Moradigaravand, D. (2023). ChemGAPP; A Package for Chemical Genomics Analysis and Phenotypic Profiling. bioRxiv."
+   date: '202301'
+   biorxiv: '2023.01.05.522861'
+ 
  - title: "High pathogenicity island, aer and sit operons: a “ménage à trois” in Escherichia coli extra-intestinal virulence"
    citation: "Royer, G., Clermont, O., Condamine, B., Dion, S., **Galardini, M.**, & Denamur, E. (2022). High pathogenicity island, aer and sit operons: a 'ménage à trois' in Escherichia coli extra-intestinal virulence. bioRxiv."
    date: '202211'
