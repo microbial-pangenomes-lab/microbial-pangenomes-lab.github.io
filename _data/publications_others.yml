@@ -57,32 +57,32 @@
    biorxiv: '2022.11.25.517969'
  
  - title: "Microbiome-derived antimicrobial peptides offer therapeutic solutions for the treatment of Pseudomonas aeruginosa infections"
-   citation: "**Mulkern, A. J.**, Oyama, L. B., Cookson, A. R., Creevey, C. J., Wilkinson, T. J., Olleik, H., ... **Damaris B. F.**, ... & Huws, S. A. (2022). Microbiome-derived antimicrobial peptides offer therapeutic solutions for the treatment of Pseudomonas aeruginosa infections. NPJ biofilms and microbiomes, 8(1), 1-15."
+   citation: "**Mulkern, A. J.**, Oyama, L. B., Cookson, A. R., Creevey, C. J., Wilkinson, T. J., Olleik, H., ... **Damaris B. F.**, ... & Huws, S. A.&#42; (2022). Microbiome-derived antimicrobial peptides offer therapeutic solutions for the treatment of Pseudomonas aeruginosa infections. NPJ biofilms and microbiomes, 8(1), 1-15."
    date: '202208'
    pmid: '36038584'
    pmcid: 'PMC9424236'
 
  - title: "Bacterial retrons encode phage-defending tripartite toxin–antitoxin systems"
-   citation: "Bobonis, J., Mitosch, K., Mateus, A., Karcher, N., Kritikos, G., Selkrig, J., ... **Galardini, M.**, ... & Typas, A. (2022). Bacterial retrons encode phage-defending tripartite toxin–antitoxin systems. Nature, 609(7925), 144-150."
+   citation: "Bobonis, J., Mitosch, K., Mateus, A., Karcher, N., Kritikos, G., Selkrig, J., ... **Galardini, M.**, ... & Typas, A.&#42; (2022). Bacterial retrons encode phage-defending tripartite toxin–antitoxin systems. Nature, 609(7925), 144-150."
    date: '202207'
    pmid: '35850148'
    biorxiv: '2020.06.22.160168'
 
  - title: "High-throughput functional characterization of protein phosphorylation sites in yeast"
-   citation: "Viéitez, C., Busby, B. P., Ochoa, D., Mateus, A., Memon, D., **Galardini, M.**, ... & Beltrao, P. (2022). High-throughput functional characterization of protein phosphorylation sites in yeast. Nature biotechnology, 40(3), 382-390."
+   citation: "Viéitez, C.&#42;, Busby, B. P.&#42;, Ochoa, D., Mateus, A., Memon, D., **Galardini, M.**, ... & Beltrao, P.&#42; (2022). High-throughput functional characterization of protein phosphorylation sites in yeast. Nature biotechnology, 40(3), 382-390."
    date: '202203'
    pmid: '34663920'
    pmcid: 'PMC7612524'
    biorxiv: '872770'
 
  - title: "A code of ethics for gene drive research"
-   citation: "Annas, G. J., Beisel, C. L., Clement, K., Crisanti, A., Francis, S., **Galardini, M.**, ... & Joung, J. K. (2021). A code of ethics for gene drive research. The CRISPR Journal, 4(1), 19-24."
+   citation: "Annas, G. J., Beisel, C. L., Clement, K., Crisanti, A., Francis, S., **Galardini, M.**, ... & Joung, J. K.&#42; (2021). A code of ethics for gene drive research. The CRISPR Journal, 4(1), 19-24."
    date: '202102'
    pmid: '33571044'
    pmcid: 'PMC7898401'
 
  - title: "Tn-Core: Functionally Interpreting Transposon-Sequencing Data with Metabolic Network Analysis"
-   citation: "diCenzo, G. C., **Galardini, M.**, & Fondi, M. (2021). Tn-Core: Functionally Interpreting Transposon-Sequencing Data with Metabolic Network Analysis. In Computational Methods in Synthetic Biology (pp. 199-215). Humana, New York, NY."
+   citation: "diCenzo, G. C., **Galardini, M.**, & Fondi, M.&#42; (2021). Tn-Core: Functionally Interpreting Transposon-Sequencing Data with Metabolic Network Analysis. In Computational Methods in Synthetic Biology (pp. 199-215). Humana, New York, NY."
    date: '202011'
    pmid: '33180303'
    links:

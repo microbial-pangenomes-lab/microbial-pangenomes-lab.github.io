@@ -47,7 +47,7 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
  - title: "The bacterial genetic determinants of Escherichia coli capacity to cause bloodstream infections in humans"
-   citation: "**Burgaya, J.**, Marin, J., Royer, G., Condamine, B., Gachet, B., Clermont, O., ... Denamur, E., **Galardini**, M. & Blanquart, F. (2023). The bacterial genetic determinants of Escherichia coli capacity to cause bloodstream infections in humans. bioRxiv, 2022-12."
+   citation: "**Burgaya, J.**&#42;, Marin, J.&#42;, Royer, G., Condamine, B., Gachet, B., Clermont, O., ... Denamur, E.&#42;, **Galardini, M.**&#42; & Blanquart, F.&#42; (2023). The bacterial genetic determinants of Escherichia coli capacity to cause bloodstream infections in humans. bioRxiv, 2022-12."
    date: '202301'
    image: '/static/img/pub/burgaya_2023.jpg'
    #pmid: '35324915'
@@ -62,7 +62,7 @@
        url: https://twitter.com/mgalactus/status/1610307002529452032
  
  - title: "Genome wide association study of human bacteremia Escherichia coli isolates identifies genetic determinants for the portal of entry but not fatal outcome"
-   citation: "Denamur, E., Condamine, B., Esposito-Farèse, M., Royer, G., Clermont, O., Laouenan, C., ... & **Galardini, M.** (2022). Genome wide association study of human bacteremia Escherichia coli isolates identifies genetic determinants for the portal of entry but not fatal outcome. PLoS Genet. 2022;18(3):e1010112."
+   citation: "Denamur, E., Condamine, B., Esposito-Farèse, M., Royer, G., Clermont, O., Laouenan, C., ... & **Galardini, M.**&#42; (2022). Genome wide association study of human bacteremia Escherichia coli isolates identifies genetic determinants for the portal of entry but not fatal outcome. PLoS Genet. 2022;18(3):e1010112."
    date: '202111'
    image: '/static/img/pub/denamur_2021.jpg'
    pmid: '35324915'
@@ -81,7 +81,7 @@
        url: https://www.twincore.de/en/infothek-and-press/infothek-news-single/news/how-does-an-intestinal-germ-become-a-pathogen/
  
  - title: "Major role of iron uptake systems in the intrinsic extra-intestinal virulence of the genus Escherichia revealed by a genome-wide association study"
-   citation: "**Galardini M.**, Clermont O., Baron A., Busby B., Dion S., Schubert S., Beltrao P. & Denamur E. (2020). Major role of iron uptake systems in the intrinsic extra-intestinal virulence of the genus Escherichia revealed by a genome-wide association study. PLOS Genetics 16(10): e1009065."
+   citation: "**Galardini M.**&#42;, Clermont O., Baron A., Busby B., Dion S., Schubert S., Beltrao P. & Denamur E.&#42; (2020). Major role of iron uptake systems in the intrinsic extra-intestinal virulence of the genus Escherichia revealed by a genome-wide association study. PLOS Genetics 16(10): e1009065."
    date: '202010'
    image: '/static/img/pub/galardini_2020.jpg'
    pmid: '33112851'
@@ -95,7 +95,7 @@
        url: https://doi.org/10.6084/m9.figshare.11879340.v1
  
  - title: "The impact of the genetic background on gene deletion phenotypes in Saccharomyces cerevisiae"
-   citation: "**Galardini, M.**, Busby, B. P., Vieitez, C., Dunham, A. S., Typas, A., & Beltrao, P. (2019). The impact of the genetic background on gene deletion phenotypes in Saccharomyces cerevisiae. Molecular Systems Biology, 15(12)."
+   citation: "**Galardini, M.**&#42;, Busby, B. P.&#42;, Vieitez, C., Dunham, A. S., Typas, A., & Beltrao, P.&#42; (2019). The impact of the genetic background on gene deletion phenotypes in Saccharomyces cerevisiae. Molecular Systems Biology, 15(12)."
    date: '201912'
    image: '/static/img/pub/galardini_2019.jpg'
    pmid: '31885205'
@@ -107,7 +107,7 @@
        url: https://github.com/mgalardini/2018koyeast
 
  - title: "pyseer: a comprehensive tool for microbial pangenome-wide association studies"
-   citation: "Lees, J. A., **Galardini, M.**, Bentley, S. D., Weiser, J. N., & Corander, J. (2018). pyseer: a comprehensive tool for microbial pangenome-wide association studies. Bioinformatics, 34(24), 4310-4312."
+   citation: "Lees, J. A.&#42;, **Galardini, M.**&#42;, Bentley, S. D., Weiser, J. N., & Corander, J.&#42; (2018). pyseer: a comprehensive tool for microbial pangenome-wide association studies. Bioinformatics, 34(24), 4310-4312."
    date: '201812'
    image: '/static/img/pub/lees_2018.png'
    pmid: '30535304'
@@ -119,7 +119,7 @@
        url: https://pyseer.readthedocs.io
 
  - title: "Phenotype inference in an Escherichia coli strain panel"
-   citation: "**Galardini, M.**, Koumoutsi, A., Herrera, C. M., Cordero Varela, J. A., Telzerow, A., Wagih O., Wartel M., Clermont O., Denamur E., Typas, A., Beltrao, P. (2017). Phenotype inference in an Escherichia coli strain panel. eLife, 6."
+   citation: "**Galardini, M.**, Koumoutsi, A., Herrera, C. M., Cordero Varela, J. A., Telzerow, A., Wagih O., Wartel M., Clermont O., Denamur E., Typas, A., Beltrao, P.&#42; (2017). Phenotype inference in an Escherichia coli strain panel. eLife, 6."
    date: '201712'
    image: '/static/img/pub/galardini_2017.jpg'
    pmid: '29280730'
