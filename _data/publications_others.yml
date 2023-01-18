@@ -50,6 +50,9 @@
    citation: "Doherty, H. M., Kritikos, G., **Galardini, M.**, Banzhaf, M., & Moradigaravand, D. (2023). ChemGAPP; A Package for Chemical Genomics Analysis and Phenotypic Profiling. bioRxiv."
    date: '202301'
    biorxiv: '2023.01.05.522861'
+   links:
+     - name: Software code
+       url: https://github.com/HannahMDoherty/ChemGAPP
  
  - title: "High pathogenicity island, aer and sit operons: a “ménage à trois” in Escherichia coli extra-intestinal virulence"
    citation: "Royer, G., Clermont, O., Condamine, B., Dion, S., **Galardini, M.**, & Denamur, E. (2022). High pathogenicity island, aer and sit operons: a 'ménage à trois' in Escherichia coli extra-intestinal virulence. bioRxiv."
