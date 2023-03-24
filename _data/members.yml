@@ -133,12 +133,12 @@
   email: thuhien.vu (at) twincore.de
   twitter: vuthuhien176
 
-- name: Jan Hornbostel
-  short: jhornbostel
-  image: /static/img/members/jan.jpg
+# - name: Jan Hornbostel
+#  short: jhornbostel
+#  image: /static/img/members/jan.jpg
   #  altimage: /static/img/members/djamalova_alt.jpg
-  position: Master student (LUH)
-  email: jan.hornbostel (at) twincore.de
+  #  position: Master student (LUH)
+  #  email: jan.hornbostel (at) twincore.de
 
 #- name: Gabriel Innocenti
 #  short: ginnocenti
