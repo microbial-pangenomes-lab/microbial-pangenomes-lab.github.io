@@ -46,6 +46,23 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Improved interpretability of bacterial genome-wide associations using gene cluster centric k-mers"
+   citation: "**Neubauer, H.**, & **Galardini, M.** (2023). Improved interpretability of bacterial genome-wide associations using gene cluster centric k-mers. bioRxiv. 10.1101/2023.04.11.536385"
+   date: '202304'
+   image: '/static/img/pub/neubauer_2023.jpg'
+   #pmid: '35324915'
+   #pmcid: 'PMC8946752'
+   biorxiv: '2023.04.11.536385'
+   links:
+     - name: Software repository
+       url: https://github.com/microbial-pangenomes-lab/panfeed
+     - name: pypi package
+       url: https://pypi.org/project/panfeed/
+     - name: Benchmark repository
+       url: https://github.com/microbial-pangenomes-lab/panfeed_benchmark_scripts
+     - name: Twitter summary thread
+       url: https://twitter.com/mgalactus/status/1646131125629198338
+ 
  - title: "The bacterial genetic determinants of Escherichia coli capacity to cause bloodstream infections in humans"
    citation: "**Burgaya, J.**&#42;, Marin, J.&#42;, Royer, G., Condamine, B., Gachet, B., Clermont, O., ... Denamur, E.&#42;, **Galardini, M.**&#42; & Blanquart, F.&#42; (2023). The bacterial genetic determinants of Escherichia coli capacity to cause bloodstream infections in humans. bioRxiv, 2022-12."
    date: '202301'
