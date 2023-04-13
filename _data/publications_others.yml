@@ -47,8 +47,10 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
  - title: "ChemGAPP; A Package for Chemical Genomics Analysis and Phenotypic Profiling."
-   citation: "Doherty, H. M., Kritikos, G., **Galardini, M.**, Banzhaf, M., & Moradigaravand, D. (2023). ChemGAPP; A Package for Chemical Genomics Analysis and Phenotypic Profiling. bioRxiv."
+   citation: "Doherty, H. M., Kritikos, G., **Galardini, M.**, Banzhaf, M., & Moradigaravand, D. (2023). ChemGAPP: a tool for chemical genomics analysis and phenotypic profiling. Bioinformatics, 39(4), btad171."
    date: '202301'
+   pmid: '37014365'
+   pmcid: 'PMC10085634'
    biorxiv: '2023.01.05.522861'
    links:
      - name: Software code
