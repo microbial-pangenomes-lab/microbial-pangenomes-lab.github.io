@@ -52,7 +52,12 @@ group: publications
 			<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}" alt = "chemrxiv preprint link: {{publication.chemrxiv}}"> {{publication.chemrxiv}}</a></li>
 			{% endif %}
 
-			<!-- PDF -->
+			<!--DOI - optional -->
+			{% if publication.doi %}
+			<li>Preprint: <a href="https://doi.org/{{publication.doi}}" alt = "preprint link: {{publication.doi}}"> {{publication.doi}}</a></li>
+			{% endif %}
+			
+            <!-- PDF -->
 			{% if publication.pdf %}
 			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
             {% endif %}
@@ -143,6 +148,12 @@ group: publications
         <br>
         {% endif %}
 
+        <!--DOI - optional -->
+        {% if publication.doi %}
+        Preprint: <a href="https://doi.org/{{publication.doi}}" alt = "preprint link: {{publication.doi}}"> {{publication.doi}}</a>
+        <br>
+        {% endif %}
+			
         <!-- PDF -->
         {% if publication.pdf %}
         <a href="{{publication.pdf}}" alt = "PDF"> Full Text</a>
