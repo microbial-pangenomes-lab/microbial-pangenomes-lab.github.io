@@ -46,7 +46,14 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
- - title: "nder challenging behavioural conditions in large cages"
+ - title: "Epistatic interactions between the high pathogenicity island and other iron uptake systems shape Escherichia coli extra-intestinal virulence"
+   citation: "Royer, G., Clermont, O., Marin, J., Condamine, B., Dion, S., Blanquart, F., ... **Galardini, M.** & Denamur, E. (2023). Epistatic interactions between the high pathogenicity island and other iron uptake systems shape Escherichia coli extra-intestinal virulence. Nature Communications, 14(1), 3667."
+   date: '202306'
+   pmid: '37339949'
+   pmcid: 'PMC10282060'
+   biorxiv: '2022.11.25.517969'
+ 
+ - title: "The DNA cytosine methylome revealed two methylation motifs in the upstream regions of genes related to morphological and physiological differentiation in Streptomyces coelicolor A(3)2 M145."
    citation: "Pisciotta, A., Sampino, A. M., Presentato, A., **Galardini, M.**, Manteca, A., & Alduina, R. (2023). The DNA cytosine methylome revealed two methylation motifs in the upstream regions of genes related to morphological and physiological differentiation in Streptomyces coelicolor A(3)2 M145. Scientific reports, 13(1), 7038."
    date: '202305'
    pmid: '37120673'
@@ -69,11 +76,6 @@
    links:
      - name: Software code
        url: https://github.com/HannahMDoherty/ChemGAPP
- 
- - title: "High pathogenicity island, aer and sit operons: a “ménage à trois” in Escherichia coli extra-intestinal virulence"
-   citation: "Royer, G., Clermont, O., Condamine, B., Dion, S., **Galardini, M.**, & Denamur, E. (2022). High pathogenicity island, aer and sit operons: a 'ménage à trois' in Escherichia coli extra-intestinal virulence. bioRxiv."
-   date: '202211'
-   biorxiv: '2022.11.25.517969'
  
  - title: "Microbiome-derived antimicrobial peptides offer therapeutic solutions for the treatment of Pseudomonas aeruginosa infections"
    citation: "**Mulkern, A. J.**, Oyama, L. B., Cookson, A. R., Creevey, C. J., Wilkinson, T. J., Olleik, H., ... **Damaris B. F.**, ... & Huws, S. A.&#42; (2022). Microbiome-derived antimicrobial peptides offer therapeutic solutions for the treatment of Pseudomonas aeruginosa infections. NPJ biofilms and microbiomes, 8(1), 1-15."
