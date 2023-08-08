@@ -51,7 +51,7 @@
    date: '202308'
    image: '/static/img/pub/burgaya_2023.jpg'
    pmid: '37531401'
-   #pmcid: 'PMC8946752'
+   pmcid: 'PMC10395866'
    biorxiv: '2022.12.31.522367'
    links:
      - name: Analysis pipeline for the paper
