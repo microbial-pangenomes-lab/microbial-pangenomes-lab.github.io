@@ -62,6 +62,10 @@
        url: https://fediscience.org/@mgalactus/109624763227588844
      - name: Preprint Twitter summary thread
        url: https://twitter.com/mgalactus/status/1610307002529452032
+     - name: Press release (RESIST)
+       url: https://www.resist-cluster.de/en/how-harmless-turns-dangerous/
+     - name: Press release (MHH, in German)
+       url: https://www.mhh.de/presse-news/wie-aus-harmlos-gefaehrlich-wird
  
  - title: "Improved interpretability of bacterial genome-wide associations using gene cluster centric k-mers"
    citation: "**Neubauer, H.**, & **Galardini, M.** (2023). Improved interpretability of bacterial genome-wide associations using gene cluster centric k-mers. bioRxiv. 10.1101/2023.04.11.536385"
