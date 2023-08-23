@@ -46,6 +46,19 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Real-time identification of epistatic interactions in SARS-CoV-2 from large genome collections"
+   citation: "**Innocenti, G.**, & **Galardini, M.** (2023). Real-time identification of epistatic interactions in SARS-CoV-2 from large genome collections (p. 2023.08.22.554253). bioRxiv. doi.org/10.1101/2023.08.22.554253"
+   date: '202308'
+   image: '/static/img/news/20230823_interactions.jpg'
+   #pmid: '35324915'
+   #pmcid: 'PMC8946752'
+   biorxiv: '2023.08.22.554253'
+   links:
+     - name: Software repository
+       url: https://github.com/microbial-pangenomes-lab/2022_sarscov2_epistasis
+     - name: Summary blog post
+       url: "../2023/08/23/Making-the-most-out-of-genomic-epidemiology/"
+ 
  - title: "The bacterial genetic determinants of Escherichia coli capacity to cause bloodstream infections in humans"
    citation: "**Burgaya, J.**&#42;, Marin, J.&#42;, Royer, G., Condamine, B., Gachet, B., Clermont, O., Jaureguy, F., Burdet, C., Lefort, A., Lastours, V. de, Denamur, E.&#42;, **Galardini, M.**&#42;, Blanquart, F.&#42; (2023). The bacterial genetic determinants of Escherichia coli capacity to cause bloodstream infections in humans. PLOS Genetics, 19(8), e1010842."
    date: '202308'
