@@ -53,7 +53,7 @@ using several nodes on HZI's cluster. But luckily we can obtain similar results
 with as few as 10k sequences (a bit better if closer to 100k), which only takes
 2 hours to complete.
 
-<img class="img-fluid" src="{{ site.url }}/static/img/news/20230823_subsets.jpg" alt="Predicted epistatic interactions across SARS-CoV-2 genome">
+<img class="img-fluid" src="{{ site.url }}/static/img/news/20230823_subsets.jpg" alt="Prediction quality when subsampling">
 
 How do these interactions change over time, and how quickly can we spot known ones,
 such as those found in Omicron BA.1? We further modified the method to reduce the influence
