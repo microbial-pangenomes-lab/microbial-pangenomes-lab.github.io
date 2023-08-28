@@ -78,3 +78,5 @@ public health decisions.
 This work was started during the first lockdown, but it was significantly advanced by
 Gabriel Innocenti, who was supported first by a [FEMS research and training grant](https://fems-microbiology.org/about_fems/network-and-activities/grants/fems-research-grants/)
 and then [by RESIST](https://www.resist-cluster.de/en/). A real pleasure to work with him!
+
+P.S. as with our other papers, [we have also shared the analysis code](https://github.com/microbial-pangenomes-lab/2022_sarscov2_epistasis) so that the study can be reproduced.
