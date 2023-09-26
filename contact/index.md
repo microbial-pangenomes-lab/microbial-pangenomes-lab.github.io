@@ -13,7 +13,7 @@ group: contact
   Associate Professor  <br>
   Molecular Bacteriology  <br>
   Twincore  <br>
-  email: marco.galardini (at) twincore.de <br>
+  email: galardini.marco (at) mh-hannover.de <br>
   tel: +49 (0)511 220027 208 <br>
 </div>
 
