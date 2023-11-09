@@ -46,6 +46,27 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Reduced ambiguity and improved interpretability of bacterial genome-wide associations using gene-cluster-centric k-mers"
+   citation: "**Sommer, H.**, **Djamalova, D.**, & **Galardini, M.** (2023). Reduced ambiguity and improved interpretability of bacterial genome-wide associations using gene-cluster-centric k-mers. Microbial Genomics, 9(11), 001129."
+   date: '202311'
+   image: '/static/img/pub/neubauer_2023.jpg'
+   pmid: '37934071'
+   #pmcid: 'PMC8946752'
+   biorxiv: '2023.04.11.536385'
+   links:
+     - name: Summary blog post
+       url: "../2023/11/09/Multiple-haystacks-are-beter-than-one/"
+     - name: Software repository
+       url: https://github.com/microbial-pangenomes-lab/panfeed
+     - name: conda package
+       url: https://anaconda.org/bioconda/panfeed
+     - name: pypi package
+       url: https://pypi.org/project/panfeed/
+     - name: Benchmark repository
+       url: https://github.com/microbial-pangenomes-lab/panfeed_benchmark_scripts
+     - name: Twitter summary thread (pre-print)
+       url: https://twitter.com/mgalactus/status/1646131125629198338
+ 
  - title: "Real-time identification of epistatic interactions in SARS-CoV-2 from large genome collections"
    citation: "**Innocenti, G.**, & **Galardini, M.** (2023). Real-time identification of epistatic interactions in SARS-CoV-2 from large genome collections (p. 2023.08.22.554253). bioRxiv. doi.org/10.1101/2023.08.22.554253"
    date: '202308'
@@ -79,23 +100,6 @@
        url: https://www.resist-cluster.de/en/how-harmless-turns-dangerous/
      - name: Press release (MHH, in German)
        url: https://www.mhh.de/presse-news/wie-aus-harmlos-gefaehrlich-wird
- 
- - title: "Improved interpretability of bacterial genome-wide associations using gene cluster centric k-mers"
-   citation: "**Neubauer, H.**, & **Galardini, M.** (2023). Improved interpretability of bacterial genome-wide associations using gene cluster centric k-mers. bioRxiv. 10.1101/2023.04.11.536385"
-   date: '202304'
-   image: '/static/img/pub/neubauer_2023.jpg'
-   #pmid: '35324915'
-   #pmcid: 'PMC8946752'
-   biorxiv: '2023.04.11.536385'
-   links:
-     - name: Software repository
-       url: https://github.com/microbial-pangenomes-lab/panfeed
-     - name: pypi package
-       url: https://pypi.org/project/panfeed/
-     - name: Benchmark repository
-       url: https://github.com/microbial-pangenomes-lab/panfeed_benchmark_scripts
-     - name: Twitter summary thread
-       url: https://twitter.com/mgalactus/status/1646131125629198338
  
  - title: "Genome wide association study of human bacteremia Escherichia coli isolates identifies genetic determinants for the portal of entry but not fatal outcome"
    citation: "Denamur, E., Condamine, B., Esposito-Farèse, M., Royer, G., Clermont, O., Laouenan, C., ... & **Galardini, M.**&#42; (2022). Genome wide association study of human bacteremia Escherichia coli isolates identifies genetic determinants for the portal of entry but not fatal outcome. PLoS Genet. 2022;18(3):e1010112."

@@ -6,7 +6,7 @@ group: research
 
 ## We are interested in microbial pangenomes
 
-We are perhaps used to think of genetic differences in the context of human genetics; two individuals differ on average in [about 5M sites in the genome](https://pubmed.ncbi.nlm.nih.gov/26432245/), or about 0.8% of the whole genome. When thinking about bacteria, genetic variation takes a whole different scale: two *E. coli* strains may differ for up to 60% of their gene content, not even counting for [SNPs](https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism). This implies that each bacterial species does not have a single genome, but rather a diverse ensemble of gene combinations, collectively termed as a [pangenome](https://pubmed.ncbi.nlm.nih.gov/19086349/). The influence of this large genetic diversity on bacterial phenotypes is the main interest of the lab.
+We are perhaps used to think of genetic differences in the context of human genetics; two individuals differ on average in [about 5M sites in the genome](https://pubmed.ncbi.nlm.nih.gov/26432245/), or about 0.8% of the whole genome. When thinking about bacteria, genetic variation takes a whole different scale: two *E. coli* strains may differ for up to 30% of their gene content, not even counting for [SNPs](https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism). This implies that each bacterial species does not have a single genome, but rather a diverse ensemble of gene combinations, collectively termed as a [pangenome](https://pubmed.ncbi.nlm.nih.gov/19086349/). The influence of this large genetic diversity on bacterial phenotypes is the main interest of the lab.
 
 ### Genotype-to-phenotype models in bacteria
 
