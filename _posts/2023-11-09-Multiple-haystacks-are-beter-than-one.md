@@ -38,7 +38,7 @@ from which we have to find the proverbial needle (the causal variants). The prob
 which will then implicate unrelated genes with the focal phenotype (as well as subtly modifying the presence/absence patterns
 of those shared _k_-mers, affecting the association results themselves). That's the ambiguity problem that needs to be solved;
 using data from 21 bacterial species' genomes we indeed show how on average 3% of _k_-mers are duplicated across genes
-and how 13% of genes have at least one _k_-mers shared with at least another gene.
+and how 13% of genes have at least one _k_-mer shared with at least another gene.
 
 <img class="img-fluid" src="{{ site.url }}/static/img/news/20231109_figure_2.jpg" alt="Plot with the proportion of duplicated k-mers across 21 pangenomes">
 
