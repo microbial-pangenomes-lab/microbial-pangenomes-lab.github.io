@@ -51,7 +51,7 @@
    date: '202311'
    image: '/static/img/pub/neubauer_2023.jpg'
    pmid: '37934071'
-   #pmcid: 'PMC8946752'
+   pmcid: 'PMC10711318'
    biorxiv: '2023.04.11.536385'
    links:
      - name: Summary blog post
