@@ -15,7 +15,7 @@ group: publications
 	<ul class="col-sm-8">
 	        <div style="font-size: 120%; font-weight: bolder !important; width: 100%">{{ publication.title | markdownify }}</div><div>{{ publication.citation | markdownify }}</div>
 	        
-	        <!--From the previous labs?
+            <!--From the previous labs?
 	        {% if publication.previous %}
 	        <p class="text-muted">(this publication predates the Microbial Pangenomes Lab but it is relevant to its research interests)</p>
 	        {% endif %}
@@ -93,6 +93,16 @@ group: publications
 			{% for link in publication.links %}
 			<li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
 			{% endfor %}
+			
+            <br/>
+            
+            {% if publication.pmid %}
+			<strong>Article metrics</strong>
+            <span class="__dimensions_badge_embed__" data-pmid="{{publication.pmid}}"
+                data-legend="always"  data-style="small_circle"></span>
+            <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+			{% endif %}
+
 	</ul>
 	<div class="col-sm-4">
 		<img class = "img-fluid" src = "{{publication.image}}" alt = "Key Figure" style="max-height: 200px;">
