@@ -202,6 +202,14 @@ group: publications
         <br>
         {% endfor %}
         {% endif %}
+            
+        <!--Metrics-->
+        {% if publication.pmid %}
+        <span class="__dimensions_badge_embed__" data-pmid="{{publication.pmid}}"
+             data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+		{% endif %}
+
 {% endfor %}
     </ul>
 </div>
