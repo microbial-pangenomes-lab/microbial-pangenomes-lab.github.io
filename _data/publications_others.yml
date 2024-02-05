@@ -46,6 +46,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Anti-CRISPR Anopheles mosquitoes inhibit gene drive spread under challenging behavioural conditions in large cages"
+   citation: "D’Amato, R., Taxiarchi, C., **Galardini, M.**, Trusso, A., Minuz, R. L., Grilli, S., Somerville, A. G. T., Shittu, D., Khalil, A. S., Galizi, R., Crisanti, A., Simoni, A., & Müller, R. (2024). Anti-CRISPR Anopheles mosquitoes inhibit gene drive spread under challenging behavioural conditions in large cages. Nature Communications, 15(1), Article 1."
+   date: '202402'
+   pmid: '38296981'
+   pmcid: 'PMC10830555'
+   doi: '10.21203/rs.3.rs-2831470/v1'
+   links:
+     - name: Modelling code
+       url: https://github.com/khalillab/large-cage
+ 
  - title: "Epistatic interactions between the high pathogenicity island and other iron uptake systems shape Escherichia coli extra-intestinal virulence"
    citation: "Royer, G., Clermont, O., Marin, J., Condamine, B., Dion, S., Blanquart, F., ... **Galardini, M.** & Denamur, E. (2023). Epistatic interactions between the high pathogenicity island and other iron uptake systems shape Escherichia coli extra-intestinal virulence. Nature Communications, 14(1), 3667."
    date: '202306'
@@ -59,14 +69,6 @@
    pmid: '37120673'
    pmcid: 'PMC10148868'
 
- - title: "Anti-CRISPR Anopheles mosquitoes inhibit gene drive spread under challenging behavioural conditions in large cages"
-   citation: "D'Amato, R., Taxiarchi, C., **Galardini, M.**, Trusso, A., Minuz, R., ... Simoni, A. & Müller, R. (2023). Anti-CRISPR Anopheles mosquitoes inhibit gene drive spread under challenging behavioural conditions in large cages. Research Square preprint"
-   date: '202304'
-   doi: '10.21203/rs.3.rs-2831470/v1'
-   links:
-     - name: Modelling code
-       url: https://github.com/khalillab/large-cage
- 
  - title: "ChemGAPP; A Package for Chemical Genomics Analysis and Phenotypic Profiling."
    citation: "Doherty, H. M., Kritikos, G., **Galardini, M.**, Banzhaf, M., & Moradigaravand, D. (2023). ChemGAPP: a tool for chemical genomics analysis and phenotypic profiling. Bioinformatics, 39(4), btad171."
    date: '202301'
