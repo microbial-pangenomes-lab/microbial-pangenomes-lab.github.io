@@ -133,13 +133,13 @@
   email: thuhien.vu (at) twincore.de
   twitter: vuthuhien176
 
-- name: Alexander Bräuer
-  short: abraeuer
-  image: /static/img/members/alex.jpg
+#- name: Alexander Bräuer
+#  short: abraeuer
+#  image: /static/img/members/alex.jpg
   #  altimage: /static/img/members/djamalova_alt.jpg
-  position: Master student (MHH)
-  email: alexander.braeuer (at) stud.mh-hannover.de
-  linkedin: alexander-bräuer-254a86269
+  #  position: Master student (MHH)
+  #  email: alexander.braeuer (at) stud.mh-hannover.de
+  #  linkedin: alexander-bräuer-254a86269
 
 # - name: Jan Hornbostel
 #  short: jhornbostel
