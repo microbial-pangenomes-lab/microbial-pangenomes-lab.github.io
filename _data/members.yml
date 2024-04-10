@@ -22,28 +22,6 @@
   and end up reading about volcano eruptions \
   and space exploration."
 
-- name: Adam Mulkern
-  short: amulkern
-  image: /static/img/members/mulkern.jpg
-#  altimage: /static/img/members/djamalova_alt.jpg
-  position: Postdoc
-  email: adam.mulkern (at) twincore.de
-  scholar: IzINMPkAAAAJ
-  twitter: MulkernAdam 
-  mastodon-user: mulkern
-  mastodon-domain: mstdn.science
-  orcid: 0000-0002-5246-6617
-  description: "Adam is a Postdoctoral Fellow at Hannover Medical School/Twincore. \
-  He completed both a BSc and a PhD at Aberystwyth University in Wales, United Kingdom. \
-  His PhD research centred upon the novel antimicrobial peptide treatment of P. aeruginosa infections. Post-PhD, \
-  he undertook a short-term post-doctoral research scientist role at the Agri-Food and Biosciences Institute in \
-  Northern Ireland, testing the efficacy of various antimicrobials against foodborne pathogens. \
-  He then travelled to Australia and New Zealand and worked for Monash University aiding researchers with NHMRC grant applications. \
-  Finally, during the pandemic, he worked as a biomedical scientist to aid the National Health Service in characterising the immune response in ITU patients to COVID-19. \
-
-
-  In his spare time, Adam is obsessed with photography and listening to Lex Fridman podcasts." 
-
 - name: Bamu Fufor Damaris
   short: bfufordamaris
   image: /static/img/members/fufordamaris.jpg
@@ -166,4 +144,26 @@
 #  twitter: Gab_innocenti
 #  github: gabrielinnocenti
 #  linkedin: gabriel-innocenti
+
+#- name: Adam Mulkern
+#  short: amulkern
+#  image: /static/img/members/mulkern.jpg
+#  altimage: /static/img/members/djamalova_alt.jpg
+#  position: Postdoc
+#  email: adam.mulkern (at) twincore.de
+#  scholar: IzINMPkAAAAJ
+#  twitter: MulkernAdam 
+#  mastodon-user: mulkern
+#  mastodon-domain: mstdn.science
+#  orcid: 0000-0002-5246-6617
+#  description: "Adam is a Postdoctoral Fellow at Hannover Medical School/Twincore. \
+#  He completed both a BSc and a PhD at Aberystwyth University in Wales, United Kingdom. \
+#  His PhD research centred upon the novel antimicrobial peptide treatment of P. aeruginosa infections. Post-PhD, \
+#  he undertook a short-term post-doctoral research scientist role at the Agri-Food and Biosciences Institute in \
+#  Northern Ireland, testing the efficacy of various antimicrobials against foodborne pathogens. \
+#  He then travelled to Australia and New Zealand and worked for Monash University aiding researchers with NHMRC grant applications. \
+#  Finally, during the pandemic, he worked as a biomedical scientist to aid the National Health Service in characterising the immune response in ITU patients to COVID-19. \
+#
+#
+#  In his spare time, Adam is obsessed with photography and listening to Lex Fridman podcasts." 
 
