@@ -9,7 +9,7 @@ group: news
 As anticipated [in the previous post]({{ site.url }}/2024/03/25/We-are-running-the-Hannover-half-marathon/),
 we intended to run the Hannover half marathon, and indeed we did!
 
-We all managed to get to the finish line, with a spetial mention to Hannes, who completed
+We all managed to get to the finish line, with a spatial mention to Hannes, who completed
 the race in 01:59:52, with just 8 seconds to spare for the 2-hour psychological
 barrier!
 
