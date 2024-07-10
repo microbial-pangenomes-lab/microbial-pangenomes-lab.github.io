@@ -52,3 +52,7 @@ body {
   font-weight: 400;
   font-family: "Arial", "sans-serif";
 }
+
+blockquote {
+  margin: 0 30px 1rem 30px;
+}
