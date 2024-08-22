@@ -46,6 +46,23 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Real-time identification of epistatic interactions in SARS-CoV-2 from large genome collections"
+   citation: "**Innocenti, G.**, Obara, M., Costa, B., Jacobsen, H., Katzmarzyk, M., Cicin-Sain, L., Kalinke, U., & **Galardini, M.** (2024). Real-time identification of epistatic interactions in SARS-CoV-2 from large genome collections. Genome Biology, 25(1), 228."
+   date: '202308'
+   image: '/static/img/news/20230823_interactions.jpg'
+   #pmid: '35324915'
+   #pmcid: 'PMC8946752'
+   biorxiv: '2023.08.22.554253'
+   links:
+     - name: Software repository
+       url: https://github.com/microbial-pangenomes-lab/2022_sarscov2_epistasis
+     - name: Summary blog post (preprint)
+       url: "../2023/08/23/Making-the-most-out-of-genomic-epidemiology/"
+     - name: Summary blog post (published version)
+       url: "../2024/08/22/Making-the-most-out-of-genomic-epidemiology-2/"
+     - name: Press release (Twincore)
+       url: "https://www.twincore.de/en/infothek-and-press/infothek-news-single/news/more-than-the-sum-of-the-parts/"
+ 
  - title: "microGWAS: a computational pipeline to perform large scale bacterial genome-wide association studies"
    citation: "**Burgaya, J.**, **Damaris, B. F.**, **Fiebig, J.**, & **Galardini, M.** (2024). microGWAS: A computational pipeline to perform large scale bacterial genome-wide association studies (p. 2024.07.08.602456). bioRxiv. https://doi.org/10.1101/2024.07.08.602456"
    date: '202407'
@@ -79,19 +96,6 @@
        url: https://github.com/microbial-pangenomes-lab/panfeed_benchmark_scripts
      - name: Twitter summary thread (pre-print)
        url: https://twitter.com/mgalactus/status/1646131125629198338
- 
- - title: "Real-time identification of epistatic interactions in SARS-CoV-2 from large genome collections"
-   citation: "**Innocenti, G.**, & **Galardini, M.** (2023). Real-time identification of epistatic interactions in SARS-CoV-2 from large genome collections (p. 2023.08.22.554253). bioRxiv. doi.org/10.1101/2023.08.22.554253"
-   date: '202308'
-   image: '/static/img/news/20230823_interactions.jpg'
-   #pmid: '35324915'
-   #pmcid: 'PMC8946752'
-   biorxiv: '2023.08.22.554253'
-   links:
-     - name: Software repository
-       url: https://github.com/microbial-pangenomes-lab/2022_sarscov2_epistasis
-     - name: Summary blog post
-       url: "../2023/08/23/Making-the-most-out-of-genomic-epidemiology/"
  
  - title: "The bacterial genetic determinants of Escherichia coli capacity to cause bloodstream infections in humans"
    citation: "**Burgaya, J.**&#42;, Marin, J.&#42;, Royer, G., Condamine, B., Gachet, B., Clermont, O., Jaureguy, F., Burdet, C., Lefort, A., Lastours, V. de, Denamur, E.&#42;, **Galardini, M.**&#42;, Blanquart, F.&#42; (2023). The bacterial genetic determinants of Escherichia coli capacity to cause bloodstream infections in humans. PLOS Genetics, 19(8), e1010842."
