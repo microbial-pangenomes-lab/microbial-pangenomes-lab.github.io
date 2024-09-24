@@ -51,7 +51,7 @@
    date: '202308'
    image: '/static/img/news/20230823_interactions.jpg'
    pmid: '39175058'
-   #pmcid: 'PMC8946752'
+   pmcid: 'PMC11342480'
    biorxiv: '2023.08.22.554253'
    links:
      - name: Software repository
