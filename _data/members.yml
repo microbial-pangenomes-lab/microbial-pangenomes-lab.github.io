@@ -122,6 +122,14 @@
   orcid: 0000-0002-6691-3561
   startdate: March 2024
 
+- name: Leon Oppe
+  short: loppe
+  image: /static/img/members/oppe.jpg
+  #  altimage: /static/img/members/djamalova_alt.jpg
+  position: Master student (MHH)
+  email: leon.oppe (at) stud.mh-hannover.de
+  startdate: September 2024
+
 #- name: Alexander Bräuer
 #  short: abraeuer
 #  image: /static/img/members/alex.jpg
