@@ -11,7 +11,7 @@ went online
 we have [published a revised version in the journal Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03355-y).
 Talk about good timing!
 
-[What we wrote one year ago]({{ site.url }}2023/08/23/Making-the-most-out-of-genomic-epidemiology/) is still a good primer on what epistatic interactions are
+[What we wrote one year ago]({{ site.url }}/2023/08/23/Making-the-most-out-of-genomic-epidemiology/) is still a good primer on what epistatic interactions are
 and why SARS-CoV-2 is a good test case for developing methods that are able to work
 on large datasets.
 
