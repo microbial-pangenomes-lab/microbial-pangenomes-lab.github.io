@@ -5,7 +5,11 @@ layout: post
 group: news
 ---
 
-Last week we ([Hannes, Hien, and Judit]({{ site.url }}/members/)) attended the annual meeting of all doctoral students from the Helmholtz Center for Infection Research (HZI), which took place at the Helmholtz Institute for RNA-based Infection Research (HIRI) in Würzburg. The event provided an excellent opportunity for us to network and discuss both current and future challenges in infection research.
+Last week we ([Hannes, Hien, and Judit]({{ site.url }}/members/)) attended the annual meeting of all doctoral students from the
+[Helmholtz Center for Infection Research (HZI)](https://www.helmholtz-hzi.de/en/),
+which took place at the [Helmholtz Institute for RNA-based Infection Research (HIRI)](https://www.helmholtz-hiri.de/en/)
+in Würzburg.
+The event provided an excellent opportunity for us to network and discuss both current and future challenges in infection research.
 
 A highlight of the meeting was the "Night Science Workshop", led by [Itai Yanai (NYU)](https://yanailab.org/).
 The workshop focused on the creative side of scientific discovery, exploring how new hypotheses and questions arise and how creativity drives the scientific progress.
