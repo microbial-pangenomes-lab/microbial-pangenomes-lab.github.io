@@ -15,7 +15,7 @@ It was a real pleasure to see this communal effort take shape!
 
 <img class="img-fluid" src="{{ site.url }}/static/img/pub/burgaya_damaris_fiebig_2024.png" alt="microGWAS logo">
 
-[What we wrote last time]({{ site.url }}2023/11/09/Multiple-haystacks-are-beter-than-one/) we published a method related to microbial GWAS remains a good
+[What we wrote last time]({{ site.url }}/2023/11/09/Multiple-haystacks-are-beter-than-one/) we published a method related to microbial GWAS remains a good
 simple primer on the subject:
 
 > As everyone in the field of genomics has heard _ad nauseam_, we now have an abundance of
