@@ -54,7 +54,7 @@
    links:
      - name: Summary blog post
        url: "../2024/10/30/Stress-testing-next-generation-antibiotics/"
-     - name: Ananalysis repository
+     - name: Analysis repository
        url: https://github.com/microbial-pangenomes-lab/2024_aso_evolution
      - name: Raw sequencing reads
        url: https://www.ebi.ac.uk/ena/browser/view/PRJEB81806
