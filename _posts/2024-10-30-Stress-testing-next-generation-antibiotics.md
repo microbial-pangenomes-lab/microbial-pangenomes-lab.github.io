@@ -56,5 +56,5 @@ mutations would appear was heavily dependent on the nature of the cell delivery 
 Given that cell delivery is harder to update than the "lego" like part, we propose that
 particular care should be given to the choice of a delivery mechanism for which resistance
 is induced at the lowest possible frequency. By following this simple advice and continuing in
-improving this new class of antibiotics we are hoping to be able to eventually be able
+improving this new class of antibiotics we are hoping to eventually be able
 to keep up with the evolution of antimicrobial resistance.
