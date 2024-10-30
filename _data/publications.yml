@@ -46,6 +46,19 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide"
+   citation: "**Mulkern, A. J.**, **Vu, T.-H.**, Popella, L., Kerrinnes, T., Đurica-Mitić, S., Barquist, L., Vogel, J., & **Galardini, M.** (2024). A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide (p. 2024.10.29.620885). bioRxiv. https://doi.org/10.1101/2024.10.29.620885"
+   date: '202410'
+   image: '/static/img/pub/mulkern_2024.jpg'
+   biorxiv: '2024.10.29.620885'
+   links:
+     - name: Summary blog post
+       url: "../2024/10/30/Stress-testing-next-generation-antibiotics/"
+     - name: Ananalysis repository
+       url: https://github.com/microbial-pangenomes-lab/2024_aso_evolution
+     - name: Raw sequencing reads
+       url: https://www.ebi.ac.uk/ena/browser/view/PRJEB81806
+ 
  - title: "Real-time identification of epistatic interactions in SARS-CoV-2 from large genome collections"
    citation: "**Innocenti, G.**, Obara, M., Costa, B., Jacobsen, H., Katzmarzyk, M., Cicin-Sain, L., Kalinke, U., & **Galardini, M.** (2024). Real-time identification of epistatic interactions in SARS-CoV-2 from large genome collections. Genome Biology, 25(1), 228."
    date: '202308'
