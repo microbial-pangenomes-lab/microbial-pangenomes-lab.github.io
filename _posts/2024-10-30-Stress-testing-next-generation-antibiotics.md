@@ -10,7 +10,8 @@ _We have [just posted a new preprint describing some work we did in the area of
 in-vitro laboratory evolution and next generation antibiotics](https://www.biorxiv.org/content/10.1101/2024.10.29.620885v1)! Here's a quick explainer
 about what we (former postdoc [Adam]({{ site.url }}/2024/04/26/One-submission-and-one-farewell/), with help from
 [Hien]({{ site.url }}/members/#hvuthu), and in collaboration with
-[Jörg Vogel's group at the HIRI](https://www.helmholtz-hiri.de/en/research/organisation/people/person/prof-joerg-vogel/))_
+[Jörg Vogel's group at the HIRI](https://www.helmholtz-hiri.de/en/research/organisation/people/person/prof-joerg-vogel/))
+did._
 
 By now, the general public is likely aware of the risks posed by infections from bugs that are
 resistant to antibiotics. Whether we could surely argue if the widely circulated estimates
