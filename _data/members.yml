@@ -112,16 +112,6 @@
   email: thuhien.vu (at) twincore.de
   twitter: vuthuhien176
 
-- name: Jenny Fiebig
-  short: jfiebig
-  image: /static/img/members/fiebig.jpg
-  #  altimage: /static/img/members/djamalova_alt.jpg
-  position: Master student (MHH)
-  email: jenny.fiebig (at) stud.mh-hannover.de
-  linkedin: jenny-f-10014b220
-  orcid: 0000-0002-6691-3561
-  startdate: March 2024
-
 - name: Leon Oppe
   short: loppe
   image: /static/img/members/oppe.jpg
@@ -129,6 +119,16 @@
   position: Master student (MHH)
   email: leon.oppe (at) stud.mh-hannover.de
   startdate: September 2024
+
+      #- name: Jenny Fiebig
+      #  short: jfiebig
+      #image: /static/img/members/fiebig.jpg
+  #  altimage: /static/img/members/djamalova_alt.jpg
+  #position: Master student (MHH)
+  #email: jenny.fiebig (at) stud.mh-hannover.de
+  #linkedin: jenny-f-10014b220
+  #orcid: 0000-0002-6691-3561
+  #startdate: March 2024
 
 #- name: Alexander Bräuer
 #  short: abraeuer
