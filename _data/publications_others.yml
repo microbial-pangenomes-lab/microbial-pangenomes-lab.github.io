@@ -46,6 +46,11 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Pervasive phosphorylation by phage T7 kinase disarms bacterial defenses"
+   citation: "Bartolec, T., Mitosch, K., Potel, C., Corona, F., Yang, A. L. J., Burtscher, M. L., ... **Galardini, M.**, ... & Savitski, M. M. (2024). Pervasive phosphorylation by phage T7 kinase disarms bacterial defenses. bioRxiv, 2024-12."
+   date: '202412'
+   biorxiv: '2024.12.20.629319'
+ 
  - title: "Uncovering nitroxoline activity spectrum, mode of action and resistance across Gram-negative bacteria"
    citation: "Cacace, E., Tietgen, M., Steinhauer, M., Mateus, A., Schultze, T. G., Eckermann, M., ... **Galardini, M.**, ... & Goettig, S. (2024). Uncovering nitroxoline activity spectrum, mode of action and resistance across Gram-negative bacteria. bioRxiv, 2024-06."
    date: '202406'
