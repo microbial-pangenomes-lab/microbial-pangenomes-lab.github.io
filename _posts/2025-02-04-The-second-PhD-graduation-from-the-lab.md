@@ -6,7 +6,7 @@ layout: post
 group: news
 ---
 
-Last week Bamu successfully defend her PhD dissertation from the questions of her
+Last week Bamu successfully defended her PhD dissertation from the questions of her
 two examiners: [Katharina Schaufler](https://www.helmholtz-hioh.de/de/forschung/people/person/prof-dr-katharina-schaufler/)
 and [Marius Vital](https://www.mhh.de/en/institute-for-medical-mikcobiology-and-hospital-epidemiology/work-group-vital).
 
