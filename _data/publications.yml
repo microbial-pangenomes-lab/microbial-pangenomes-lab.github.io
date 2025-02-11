@@ -46,6 +46,20 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "microGWAS: a computational pipeline to perform large scale bacterial genome-wide association studies"
+   citation: "**Burgaya, J.**, **Damaris, B. F.**, **Fiebig, J.**, & **Galardini, M.** (2025). microGWAS: A computational pipeline to perform large-scale bacterial genome-wide association studies. Microbial Genomics, 11(2), 001349."
+   date: '202502'
+   image: '/static/img/pub/burgaya_damaris_fiebig_2024.png'
+   pmid: '39932497'
+   biorxiv: '2024.07.08.602456'
+   links:
+     - name: Summary blog post
+       url: "../2024/07/10/Making-microbial-GWAS-accessible-through-a-bit-of-plumbing/"
+     - name: Software repository
+       url: https://github.com/microbial-pangenomes-lab/microGWAS
+     - name: Online documentation
+       url: https://microgwas.readthedocs.io
+ 
  - title: "A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide"
    citation: "**Mulkern, A. J.**, **Vu, T.-H.**, Popella, L., Kerrinnes, T., Đurica-Mitić, S., Barquist, L., Vogel, J., & **Galardini, M.** (2024). A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide (p. 2024.10.29.620885). bioRxiv. https://doi.org/10.1101/2024.10.29.620885"
    date: '202410'
@@ -75,19 +89,6 @@
        url: "../2024/08/22/Making-the-most-out-of-genomic-epidemiology-2/"
      - name: Press release (Twincore)
        url: "https://www.twincore.de/en/infothek-and-press/infothek-news-single/news/more-than-the-sum-of-the-parts/"
- 
- - title: "microGWAS: a computational pipeline to perform large scale bacterial genome-wide association studies"
-   citation: "**Burgaya, J.**, **Damaris, B. F.**, **Fiebig, J.**, & **Galardini, M.** (2024). microGWAS: A computational pipeline to perform large scale bacterial genome-wide association studies (p. 2024.07.08.602456). bioRxiv. https://doi.org/10.1101/2024.07.08.602456"
-   date: '202407'
-   image: '/static/img/pub/burgaya_damaris_fiebig_2024.png'
-   biorxiv: '2024.07.08.602456'
-   links:
-     - name: Summary blog post
-       url: "../2024/07/10/Making-microbial-GWAS-accessible-through-a-bit-of-plumbing/"
-     - name: Software repository
-       url: https://github.com/microbial-pangenomes-lab/microGWAS
-     - name: Online documentation
-       url: https://microgwas.readthedocs.io
  
  - title: "Reduced ambiguity and improved interpretability of bacterial genome-wide associations using gene-cluster-centric k-mers"
    citation: "**Sommer, H.**, **Djamalova, D.**, & **Galardini, M.** (2023). Reduced ambiguity and improved interpretability of bacterial genome-wide associations using gene-cluster-centric k-mers. Microbial Genomics, 9(11), 001129."
