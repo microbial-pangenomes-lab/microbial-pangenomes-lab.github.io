@@ -55,6 +55,8 @@
    links:
      - name: Summary blog post
        url: "../2024/07/10/Making-microbial-GWAS-accessible-through-a-bit-of-plumbing/"
+     - name: Summary blog post (published version)
+       url: "../2025/02/12/Our-improved-GWAS-plumbing-paper-is-out/"
      - name: Software repository
        url: https://github.com/microbial-pangenomes-lab/microGWAS
      - name: Online documentation
