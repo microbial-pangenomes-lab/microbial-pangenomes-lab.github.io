@@ -59,6 +59,8 @@
        url: https://github.com/microbial-pangenomes-lab/microGWAS
      - name: Online documentation
        url: https://microgwas.readthedocs.io
+     - name: Press release (RESIST)
+       url: "https://www.resist-cluster.de/en/better-prediction-of-bacterial-properties/"
  
  - title: "A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide"
    citation: "**Mulkern, A. J.**, **Vu, T.-H.**, Popella, L., Kerrinnes, T., Đurica-Mitić, S., Barquist, L., Vogel, J., & **Galardini, M.** (2024). A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide (p. 2024.10.29.620885). bioRxiv. https://doi.org/10.1101/2024.10.29.620885"
