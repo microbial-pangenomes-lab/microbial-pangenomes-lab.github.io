@@ -5,10 +5,13 @@
   position: Principal Investigator
   email: galardini.marco (at) mh-hannover.de
   scholar: sq3ru04AAAAJ
-  twitter: mgalactus
-  mastodon-user: mgalactus
-  mastodon-domain: fediscience.org
+      #twitter: mgalactus
+  bluesky-user: mgalactus
+  bluesky-domain: bsky.social
+      #mastodon-user: mgalactus
+      #mastodon-domain: fediscience.org
   orcid: 0000-0003-2018-8242
+  linkedin: marco-galardini
   github: mgalardini
   description: "Marco is a computational biologist with a taste for microbiology. \
   He did is bachelor and master studies in Italy at the university of Florence and Bologna, \
@@ -22,47 +25,6 @@
   and end up reading about volcano eruptions \
   and space exploration."
 
-- name: Bamu Fufor Damaris
-  short: bfufordamaris
-  image: /static/img/members/fufordamaris.jpg
-#  altimage: /static/img/members/fufordamaris_alt.jpg
-  position: PhD student (ZIB, supported by DAAD)
-  email: bamu.fufordamaris (at) twincore.de
-  twitter: DamarisBamu
-  orcid: 0009-0009-9025-5704
-  github: Bamu-d
-  linkedin: bamu-damaris-92abbb142
-  description: "Bamu Fufor Damaris is a PhD candidate in Infection Biology at the Hannover Medical School. \
-  She has over 2 years of experience as a Laboratory Technician at the International Reference Hospital \
-  in her hometown, Buea in Cameroon. She also served as chief of programs at an NGO she co-founded with \
-  two close friends (Integrated Health Organization). Her passion for community health inspired her to \
-  pursue the Erasmus Mundus joint master’s program in Infectious disease and One health. Where she had \
-  the privilege of undertaking studies and research in three partnering universities across Europe: \
-  Universite de Tours, France, Universidad Autonoma Barcelona, Spain and the University of Edinburgh \
-  in the United Kingdom. Though fairly new in this field of research, she is determined to make an impact.
-  
-
-  On her less busy days, she enjoys mentoring high school students back in Cameroon. Travelling and \
-  photography is a recent hobby which she picked up in her short time in Europe."
-
-- name: Dilfuza Djamalova
-  short: ddjamalova
-  image: /static/img/members/djamalova.jpg
-#  altimage: /static/img/members/djamalova_alt.jpg
-  position: PhD student (ZIB)
-  email: dilfuza.djamalova (at) twincore.de
-  github: ddjamalova
-  twitter: DilfuzaDjamalo1
-  description: "Dilfuza Djamalova is a PhD candidate in the ZIB program at the Hannover Medical School. \
-  She did her Bachelor's at the National University of Uzbekistan and Master's at the \
-  Skolkovo Institute of Science and Technology (Moscow, Russia). During her bachelor's, \
-  she conducted research on studying the plant growth-promoting potential of endophytes of \
-  halotolerant plants at Yerevan State University under the EURASIA-funded exchange program \
-  of the Norwegian Center for International Cooperation in Education. \
-  She has an interest in studying the evolutionary dynamics of bacterial species through the light of their life-styles. \ 
-
-
-  Apart from research, Dilfuza has a musical background and is fond of programming."
 
 - name: Hannes Sommer
   short: hsommer
@@ -112,13 +74,67 @@
   email: thuhien.vu (at) twincore.de
   twitter: vuthuhien176
 
-- name: Leon Oppe
-  short: loppe
-  image: /static/img/members/oppe.jpg
+- name: Silvia Calero
+  short: scalero
+  image: /static/img/members/silvia.jpg
+#  altimage: /static/img/members/djamalova_alt.jpg
+  position: Visiting PhD student (Universidad de Zaragoza)
+  email: scalero (at) unizar.es
+  bluesky-user: scalmar
+  bluesky-domain: bsky.social
+  orcid: 0000-0002-8983-185X
+  linkedin: silvia-calero-martínez-053031175
+
+#- name: Bamu Fufor Damaris
+#  short: bfufordamaris
+#  image: /static/img/members/fufordamaris.jpg
+#  altimage: /static/img/members/fufordamaris_alt.jpg
+#  position: PhD student (ZIB, supported by DAAD)
+#  email: bamu.fufordamaris (at) twincore.de
+#  twitter: DamarisBamu
+#  orcid: 0009-0009-9025-5704
+#  github: Bamu-d
+#  linkedin: bamu-damaris-92abbb142
+#  description: "Bamu Fufor Damaris is a PhD candidate in Infection Biology at the Hannover Medical School. \
+#  She has over 2 years of experience as a Laboratory Technician at the International Reference Hospital \
+#  in her hometown, Buea in Cameroon. She also served as chief of programs at an NGO she co-founded with \
+#  two close friends (Integrated Health Organization). Her passion for community health inspired her to \
+#  pursue the Erasmus Mundus joint master’s program in Infectious disease and One health. Where she had \
+#  the privilege of undertaking studies and research in three partnering universities across Europe: \
+#  Universite de Tours, France, Universidad Autonoma Barcelona, Spain and the University of Edinburgh \
+#  in the United Kingdom. Though fairly new in this field of research, she is determined to make an impact.
+  
+
+      #  On her less busy days, she enjoys mentoring high school students back in Cameroon. Travelling and \
+      #  photography is a recent hobby which she picked up in her short time in Europe."
+
+      #- name: Dilfuza Djamalova
+      #  short: ddjamalova
+#image: /static/img/members/djamalova.jpg
+#  altimage: /static/img/members/djamalova_alt.jpg
+#  position: PhD student (ZIB)
+#  email: dilfuza.djamalova (at) twincore.de
+#  github: ddjamalova
+#  twitter: DilfuzaDjamalo1
+#  description: "Dilfuza Djamalova is a PhD candidate in the ZIB program at the Hannover Medical School. \
+#  She did her Bachelor's at the National University of Uzbekistan and Master's at the \
+#  Skolkovo Institute of Science and Technology (Moscow, Russia). During her bachelor's, \
+#  she conducted research on studying the plant growth-promoting potential of endophytes of \
+#  halotolerant plants at Yerevan State University under the EURASIA-funded exchange program \
+#  of the Norwegian Center for International Cooperation in Education. \
+#  She has an interest in studying the evolutionary dynamics of bacterial species through the light of their life-styles. \ 
+
+
+      # Apart from research, Dilfuza has a musical background and is fond of programming."
+
+      #- name: Leon Oppe
+      #  short: loppe
+      #  image: /static/img/members/oppe.jpg
   #  altimage: /static/img/members/djamalova_alt.jpg
-  position: Master student (MHH)
-  email: leon.oppe (at) stud.mh-hannover.de
-  startdate: September 2024
+  #  position: Master student (MHH)
+  #  email: leon.oppe (at) stud.mh-hannover.de
+  #  startdate: September 2024
+
 
       #- name: Jenny Fiebig
       #  short: jfiebig

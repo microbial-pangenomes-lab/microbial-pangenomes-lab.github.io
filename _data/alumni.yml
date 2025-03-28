@@ -4,6 +4,24 @@
 #  enddate: 2020
 #  current: Medical Writer - Health Interactions
 
+- name: Bamu Fufor Damaris
+  position: PhD student (ZIB, supported by DAAD)
+  startdate: October 2020
+  enddate: February 2025
+  current: Evaluating her options...
+
+- name: Dilfuza Djamalova
+  position: PhD student
+  startdate: March 2021
+  enddate: February 2025
+  current: Scientific researcher at <a href="https://www.fz-juelich.de/de/ibg/ibg-5">Institut für Bio- und Geowissenschaften (IBG), Jülich</a>
+
+- name: Leon Oppe
+  position: Master student (MHH)
+  startdate: September 2024
+  enddate: March 2025
+  current: Back at his previous job
+
 - name: Jenny Fiebig
   position: Master student (MHH)
   startdate: March 2024
@@ -20,7 +38,7 @@
   position: Master student (MHH)
   startdate: March 2023 
   enddate: January 2024
-  current: Evaluating his options...
+  current: PhD student with <a href="https://uol.de/ai4health/ueber-uns">Nils Strodthoff</a>
 
 - name: Gabriel Innocenti
   position: Intern (FEMS)
