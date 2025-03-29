@@ -50,7 +50,9 @@
 #  altimage: /static/img/members/djamalova_alt.jpg
   position: PhD student (ZIB)
   email: judit.ventura (at) twincore.de
-  twitter: juditburgaya
+      #  twitter: juditburgaya
+  bluesky-user: jburgaya
+  bluesky-domain: bsky.social
   github: jburgaya
   orcid: 0000-0002-6383-1165
   linkedin: judit-burgaya-ventura-706016199
