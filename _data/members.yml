@@ -87,7 +87,17 @@
   orcid: 0000-0002-8983-185X
   linkedin: silvia-calero-martínez-053031175
 
-#- name: Bamu Fufor Damaris
+- name: Lisa Fennig
+  short: lfennig
+  #image: /static/img/members/fiebig.jpg
+  #  altimage: /static/img/members/djamalova_alt.jpg
+  position: Master student (MHH)
+  email: lisa.fennig (at) stud.mh-hannover.de
+  #linkedin: jenny-f-10014b220
+  #orcid: 0000-0002-6691-3561
+  startdate: April 2025
+
+ #- name: Bamu Fufor Damaris
 #  short: bfufordamaris
 #  image: /static/img/members/fufordamaris.jpg
 #  altimage: /static/img/members/fufordamaris_alt.jpg
