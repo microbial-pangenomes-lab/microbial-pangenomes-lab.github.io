@@ -46,15 +46,17 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Uncovering nitroxoline activity spectrum, mode of action and resistance across Gram-negative bacteria"
+   citation: "Cacace, E., Tietgen, M., Steinhauer, M., Mateus, A., Schultze, T. G., Eckermann, M., ... **Galardini, M.**, ... & Göttig, S. (2025). Uncovering nitroxoline activity spectrum, mode of action and resistance across Gram-negative bacteria. Nature Communications, 16(1), 3783."
+   date: '202504'
+   biorxiv: '2024.06.04.597298'
+   pmid: '40263263'
+   pmcid: 'PMC12015411'
+ 
  - title: "Pervasive phosphorylation by phage T7 kinase disarms bacterial defenses"
    citation: "Bartolec, T., Mitosch, K., Potel, C., Corona, F., Yang, A. L. J., Burtscher, M. L., ... **Galardini, M.**, ... & Savitski, M. M. (2024). Pervasive phosphorylation by phage T7 kinase disarms bacterial defenses. bioRxiv, 2024-12."
    date: '202412'
    biorxiv: '2024.12.20.629319'
- 
- - title: "Uncovering nitroxoline activity spectrum, mode of action and resistance across Gram-negative bacteria"
-   citation: "Cacace, E., Tietgen, M., Steinhauer, M., Mateus, A., Schultze, T. G., Eckermann, M., ... **Galardini, M.**, ... & Goettig, S. (2024). Uncovering nitroxoline activity spectrum, mode of action and resistance across Gram-negative bacteria. bioRxiv, 2024-06."
-   date: '202406'
-   biorxiv: '2024.06.04.597298'
  
  - title: "Anti-CRISPR Anopheles mosquitoes inhibit gene drive spread under challenging behavioural conditions in large cages"
    citation: "D’Amato, R., Taxiarchi, C., **Galardini, M.**, Trusso, A., Minuz, R. L., Grilli, S., Somerville, A. G. T., Shittu, D., Khalil, A. S., Galizi, R., Crisanti, A., Simoni, A., & Müller, R. (2024). Anti-CRISPR Anopheles mosquitoes inhibit gene drive spread under challenging behavioural conditions in large cages. Nature Communications, 15(1), Article 1."
