@@ -46,6 +46,18 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Cis non-coding genetic variation drives gene expression changes in the E. coli and P. aeruginosa pangenomes"
+   citation: "**Damaris, B. F.**, Zietek, M., Erdmann, J., Typas, A., Häussler, S., & **Galardini, M.** (2025). Cis non-coding genetic variation drives gene expression changes in the E. coli and P. aeruginosa pangenomes (p. 2025.06.10.658842). bioRxiv. https://doi.org/10.1101/2025.06.10.658842"
+   date: '202506'
+   image: '/static/img/pub/damaris_2025.jpg'
+   #pmid: '39932497'
+   biorxiv: '2025.06.10.658842'
+   links:
+     - name: Summary blog post
+       url: "../2025/06/10/When-the-culprit-is-under-your-nose/"
+     - name: Analysis code repository
+       url: https://github.com/microbial-pangenomes-lab/bacterial_transcription
+ 
  - title: "microGWAS: a computational pipeline to perform large scale bacterial genome-wide association studies"
    citation: "**Burgaya, J.**, **Damaris, B. F.**, **Fiebig, J.**, & **Galardini, M.** (2025). microGWAS: A computational pipeline to perform large-scale bacterial genome-wide association studies. Microbial Genomics, 11(2), 001349."
    date: '202502'
