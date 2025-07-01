@@ -46,6 +46,15 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Suppression of gut colonization by multidrug-resistant Escherichia coli clinical isolates through cooperative niche exclusion"
+   citation: "Wende, M., Osbelt, L., Eisenhard, L., Lesker, T. R., **Damaris, B. F.**, ... Schaufler, K., Schlüter, D., **Galardini, M.**, & Strowig, T. (2025). Suppression of gut colonization by multidrug-resistant Escherichia coli clinical isolates through cooperative niche exclusion. Nature Communications, 16(1), 5426."
+   date: '202507'
+   links:
+     - name: Analysis code
+       url: https://github.com/microbial-pangenomes-lab/2023_ecoli_protection
+   #pmid: '40263263'
+   # pmcid: 'PMC12015411'
+ 
  - title: "Uncovering nitroxoline activity spectrum, mode of action and resistance across Gram-negative bacteria"
    citation: "Cacace, E., Tietgen, M., Steinhauer, M., Mateus, A., Schultze, T. G., Eckermann, M., ... **Galardini, M.**, ... & Göttig, S. (2025). Uncovering nitroxoline activity spectrum, mode of action and resistance across Gram-negative bacteria. Nature Communications, 16(1), 3783."
    date: '202504'
