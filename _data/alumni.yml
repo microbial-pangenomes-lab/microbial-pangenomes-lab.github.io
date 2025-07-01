@@ -4,6 +4,20 @@
 #  enddate: 2020
 #  current: Medical Writer - Health Interactions
 
+- name: Silvia Calero
+  #image: /static/img/members/silvia.jpg
+#  altimage: /static/img/members/djamalova_alt.jpg
+  position: Visiting PhD student
+  startdate: March 2025
+  enddate: July 2025
+  current: Back at her lab in <a href="https://paca.unizar.es/personal/silvia-calero-martinez">Zaragoza</a>
+  
+  #email: scalero (at) unizar.es
+  #bluesky-user: scalmar
+  #bluesky-domain: bsky.social
+  #orcid: 0000-0002-8983-185X
+  #linkedin: silvia-calero-martínez-053031175
+
 - name: Bamu Fufor Damaris
   position: PhD student (ZIB, supported by DAAD)
   startdate: October 2020
