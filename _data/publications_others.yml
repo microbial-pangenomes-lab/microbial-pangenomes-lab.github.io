@@ -52,7 +52,7 @@
    links:
      - name: Analysis code
        url: https://github.com/microbial-pangenomes-lab/2023_ecoli_protection
-   #pmid: '40263263'
+   pmid: '40593813'
    # pmcid: 'PMC12015411'
  
  - title: "Uncovering nitroxoline activity spectrum, mode of action and resistance across Gram-negative bacteria"
