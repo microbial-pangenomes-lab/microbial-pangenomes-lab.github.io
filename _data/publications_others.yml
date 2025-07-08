@@ -53,7 +53,7 @@
      - name: Analysis code
        url: https://github.com/microbial-pangenomes-lab/2023_ecoli_protection
    pmid: '40593813'
-   # pmcid: 'PMC12015411'
+   pmcid: 'PMC12215308'
  
  - title: "Uncovering nitroxoline activity spectrum, mode of action and resistance across Gram-negative bacteria"
    citation: "Cacace, E., Tietgen, M., Steinhauer, M., Mateus, A., Schultze, T. G., Eckermann, M., ... **Galardini, M.**, ... & Göttig, S. (2025). Uncovering nitroxoline activity spectrum, mode of action and resistance across Gram-negative bacteria. Nature Communications, 16(1), 3783."
