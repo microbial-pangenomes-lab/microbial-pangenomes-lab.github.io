@@ -26,47 +26,47 @@
   and space exploration."
 
 
-- name: Hannes Sommer
-  short: hsommer
-  image: /static/img/members/sommer.jpg
+  #- name: Hannes Sommer
+  #short: hsommer
+  #image: /static/img/members/sommer.jpg
 #  altimage: /static/img/members/djamalova_alt.jpg
-  position: PhD student (ZIB)
-  email: hannes.neubauer (at) twincore.de
-  github: haneubau
-  orcid: 0000-0002-2583-5368
-  linkedin: hannes-neubauer-3089b5204
-  description: "Hannes Neubauer is a PhD candidate in the ZIB program at the Hannover Medical School. \ 
-  He studied at the Georg-August-Universität in Göttingen (Germany) for his bachelor’s degree in general \
-  biology and master’s degree in molecular life sciences. During his bachelor he developed a fascination \ 
-  with microbiology and the processing of large amounts of data using bioinformatic methods. \ 
-  Teaching in practical courses for basic microbiology he also got to share his fondness of microbes with other students. \
-  
-  
-  Hannes enjoys most things nature related (e.g. hiking or whittling). His most frequent hike, however, is to the coffee machine."
+#position: PhD student (ZIB)
+#  email: hannes.neubauer (at) twincore.de
+#  github: haneubau
+#  orcid: 0000-0002-2583-5368
+#  linkedin: hannes-neubauer-3089b5204
+#  description: "Hannes Neubauer is a PhD candidate in the ZIB program at the Hannover Medical School. \ 
+#  He studied at the Georg-August-Universität in Göttingen (Germany) for his bachelor’s degree in general \
+#  biology and master’s degree in molecular life sciences. During his bachelor he developed a fascination \ 
+#  with microbiology and the processing of large amounts of data using bioinformatic methods. \ 
+#  Teaching in practical courses for basic microbiology he also got to share his fondness of microbes with other students. \
+#  
+#  
+#  Hannes enjoys most things nature related (e.g. hiking or whittling). His most frequent hike, however, is to the coffee machine."
 
-- name: Judit Burgaya Ventura
-  short: jburgaya
-  image: /static/img/members/burgayaventura.jpg
+  #- name: Judit Burgaya Ventura
+  #  short: jburgaya
+  #  image: /static/img/members/burgayaventura.jpg
 #  altimage: /static/img/members/djamalova_alt.jpg
-  position: PhD student (ZIB)
-  email: judit.ventura (at) twincore.de
+#  position: PhD student (ZIB)
+#  email: judit.ventura (at) twincore.de
       #  twitter: juditburgaya
-  bluesky-user: jburgaya
-  bluesky-domain: bsky.social
-  github: jburgaya
-  orcid: 0000-0002-6383-1165
-  linkedin: judit-burgaya-ventura-706016199
-  description: "Judit Burgaya Ventura is a PhD candidate in the ZIB program at the Hannover Medical School. \ 
-  She did her Bachelor’s in Biology and her Master’s in Applied Microbiology in the Universitat Autònoma de Barcelona, Catalunya, Spain. \ 
-  As part of her Bachelor’s she got to know the day to day inside a hospital clinical laboratory. \  
-  During the last year she has been part of the tuberculosis research group at the Animal Health Research Center (IRTA-CReSA), \
-  a multidisciplinary center with a collaborative environment, which allowed her to acquire new skills and get closer to several disciplines, \ 
-  growing knowledge in epidemiological, immunological, and classical microbiological methodologies. \ 
+      #  bluesky-user: jburgaya
+      #  bluesky-domain: bsky.social
+      #  github: jburgaya
+      #  orcid: 0000-0002-6383-1165
+      #  linkedin: judit-burgaya-ventura-706016199
+      #  description: "Judit Burgaya Ventura is a PhD candidate in the ZIB program at the Hannover Medical School. \ 
+      #  She did her Bachelor’s in Biology and her Master’s in Applied Microbiology in the Universitat Autònoma de Barcelona, Catalunya, Spain. \ 
+      #  As part of her Bachelor’s she got to know the day to day inside a hospital clinical laboratory. \  
+      #  During the last year she has been part of the tuberculosis research group at the Animal Health Research Center (IRTA-CReSA), \
+      #  a multidisciplinary center with a collaborative environment, which allowed her to acquire new skills and get closer to several disciplines, \ 
+      #  growing knowledge in epidemiological, immunological, and classical microbiological methodologies. \ 
 
   
-  Being part of a team has taught Judit to be strong-minded, tenacious, and persistent. Outside of academia, she is a roller hockey player, \ 
-  previously part of the Club Patí Voltregà, with which she won the European championship in 2019, \ 
-  and now as part of the SC Bison Calenberg. Moreover, she is fond of different sports, and enjoys hiking and climbing as well."
+  #  Being part of a team has taught Judit to be strong-minded, tenacious, and persistent. Outside of academia, she is a roller hockey player, \ 
+  #  previously part of the Club Patí Voltregà, with which she won the European championship in 2019, \ 
+  #  and now as part of the SC Bison Calenberg. Moreover, she is fond of different sports, and enjoys hiking and climbing as well."
 
 - name: Vũ Thu Hiền
   short: hvuthu
