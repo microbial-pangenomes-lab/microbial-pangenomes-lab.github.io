@@ -17,7 +17,7 @@ Perspective postdocs are encouraged to informally enquire about joining the lab.
 <div class="col col-md-4">
 ### Graduate Students
 
-the lab accepts graduate students from either the [ZIB](https://www.mhh.de/hbrs/zib/) or [BIOMEDAS](http://www.translationsallianz.de/biomedas/). For ZIB, the applications are open each year between [December and April](https://www.mhh.de/hbrs/zib/program-details). The deadline for applying to BIOMEDAS is August 31st. We are also happy to support applications for the [DAAD graduate scholarships](https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-scholarships/).
+The lab accepts graduate students from either the [ZIB](https://www.mhh.de/hbrs/zib/) or [BIOMEDAS](http://www.translationsallianz.de/biomedas/). For ZIB, the applications are open each year between [December and April](https://www.mhh.de/hbrs/zib/program-details). There is no deadline for applying to BIOMEDAS. We are also happy to support applications for the [DAAD graduate scholarships](https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-scholarships/).
 </div>
 
 <div class="col col-md-4">
