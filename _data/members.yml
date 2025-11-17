@@ -76,15 +76,15 @@
   email: thuhien.vu (at) twincore.de
   twitter: vuthuhien176
 
-- name: Lisa Fennig
-  short: lfennig
-  image: /static/img/members/fennig.jpg
+#- name: Lisa Fennig
+#  short: lfennig
+#  image: /static/img/members/fennig.jpg
   #  altimage: /static/img/members/djamalova_alt.jpg
-  position: Master student (MHH)
-  email: lisa.fennig (at) stud.mh-hannover.de
-  linkedin: lisa-fennig
+  #  position: Master student (MHH)
+  #  email: lisa.fennig (at) stud.mh-hannover.de
+  # linkedin: lisa-fennig
   #orcid: 0000-0002-6691-3561
-  startdate: April 2025
+  #  startdate: April 2025
 
  #- name: Bamu Fufor Damaris
 #  short: bfufordamaris
