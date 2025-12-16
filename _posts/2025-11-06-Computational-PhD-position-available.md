@@ -6,6 +6,8 @@ layout: post
 group: news
 ---
 
+**Update (2025-12-16): the position has been provisionally filled. Thanks to all who applied!**
+
 After a rather long hiatus we are hiring again!
 
 We are looking for a candidate to fill a **computational PhD student position**, 
