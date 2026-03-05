@@ -49,10 +49,11 @@ group: members
 <hr>
 <div class="row">
 {% for person in site.data.alumni %}
-    <div id = "{{person.short}}" style="padding-bottom: 30px" class="col-sm-6">
-        <strong>{{person.name}}</strong> ({{person.startdate}} - {{person.enddate}})<br>
+    <div id = "{{person.short}}" style="padding-bottom: 30px" class="col-sm-4">
+	<strong>{{person.name}}</strong><br>
+	({{person.startdate}} - {{person.enddate}}) <br>
 	{{person.position}} <br>
-	<b>Next position:</b> {{person.current}}<br>
+	<b>Next position:</b> {{person.current}} <br>
 	<!-- <p class="text-justify">{{person.description | markdownify}}</p> -->
     </div>
 {% endfor %}

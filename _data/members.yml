@@ -25,6 +25,23 @@
   and end up reading about volcano eruptions \
   and space exploration."
 
+- name: Vũ Thu Hiền
+  short: hvuthu
+  image: /static/img/members/hien.jpg
+#  altimage: /static/img/members/djamalova_alt.jpg
+  position: PhD student (ZIB, supported by DAAD)
+  email: thuhien.vu (at) twincore.de
+  twitter: vuthuhien176
+
+- name: Alessio Masoni
+  short: amasoni
+  image: /static/img/members/masoni.jpg
+#  altimage: /static/img/members/djamalova_alt.jpg
+  position: PhD student (Biomedas, supported by RESIST)
+  email: alessio.masoni (at) twincore.de
+  linkedin: alessio-masoni-5496101bb
+  github: mason-2000
+
 
   #- name: Hannes Sommer
   #short: hsommer
@@ -67,14 +84,6 @@
   #  Being part of a team has taught Judit to be strong-minded, tenacious, and persistent. Outside of academia, she is a roller hockey player, \ 
   #  previously part of the Club Patí Voltregà, with which she won the European championship in 2019, \ 
   #  and now as part of the SC Bison Calenberg. Moreover, she is fond of different sports, and enjoys hiking and climbing as well."
-
-- name: Vũ Thu Hiền
-  short: hvuthu
-  image: /static/img/members/hien.jpg
-#  altimage: /static/img/members/djamalova_alt.jpg
-  position: PhD student (ZIB, supported by DAAD)
-  email: thuhien.vu (at) twincore.de
-  twitter: vuthuhien176
 
 #- name: Lisa Fennig
 #  short: lfennig
