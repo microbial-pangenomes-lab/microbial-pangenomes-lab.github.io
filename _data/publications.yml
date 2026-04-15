@@ -63,6 +63,7 @@
    date: '202502'
    image: '/static/img/pub/burgaya_damaris_fiebig_2024.png'
    pmid: '39932497'
+   pmcid: 'PMC12452030'
    biorxiv: '2024.07.08.602456'
    links:
      - name: Summary blog post
