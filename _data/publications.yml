@@ -46,6 +46,18 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Coupling time-aware SNP thresholds with genetic markers to define bacterial transmission chains in hospital surveillance"
+   citation: "**Burgaya, J.**, Erdmann, J., Knegendorf, L., Baier, C., Strunin, D., Marvig, R. L., Nielsen, K. L., Hertz, F. B., Schlueter, D., Haeussler, S., & **Galardini, M.** (2026). Coupling time-aware SNP thresholds with genetic markers to define bacterial transmission chains in hospital surveillance (p. 2026.04.27.26351816). medRxiv. https://doi.org/10.64898/2026.04.27.26351816"
+   date: '202605'
+   image: '/static/img/pub/burgaya_2026.jpg'
+   #pmid: '39932497'
+   medrxiv2: '2026.04.27.26351816'
+   links:
+     - name: Summary blog post
+       url: "../2026/05/04/Time-is-relative-in-genomic-epidemiology/"
+     - name: Analysis code repository
+       url: https://github.com/jburgaya/2025_genomics_transmission
+
  - title: "Cis non-coding genetic variation drives gene expression changes in the E. coli and P. aeruginosa pangenomes"
    citation: "**Damaris, B. F.**, Zietek, M., Erdmann, J., Typas, A., Häussler, S., & **Galardini, M.** (2025). Cis non-coding genetic variation drives gene expression changes in the E. coli and P. aeruginosa pangenomes (p. 2025.06.10.658842). bioRxiv. https://doi.org/10.1101/2025.06.10.658842"
    date: '202506'
