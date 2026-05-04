@@ -45,6 +45,10 @@ group: publications
 			{% if publication.medrxiv %}
 			<li>Medrxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.medrxiv}}" alt = "medrxiv preprint link: {{publication.medrxiv}}"> {{publication.medrxiv}}</a></li>
 			{% endif %}
+			<!--Medrxiv - new DOI, optional -->
+			{% if publication.medrxiv2 %}
+			<li>Medrxiv Preprint: <a href="http://dx.doi.org/10.64898/{{publication.medrxiv2}}" alt = "medrxiv preprint link: {{publication.medrxiv2}}"> {{publication.medrxiv2}}</a></li>
+			{% endif %}
 
 			<!--Arxiv - optional -->
 			{% if publication.arxiv %}
