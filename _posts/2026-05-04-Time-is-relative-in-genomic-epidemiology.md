@@ -1,5 +1,5 @@
 ---
-title: Time is relative in genomic epidemiology
+title: Time is relative (in genomic epidemiology)
 author: Marco Galardini
 short: mgalardini
 layout: post
