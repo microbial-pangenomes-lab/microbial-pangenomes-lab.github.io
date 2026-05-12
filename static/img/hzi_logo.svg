@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 33" width="64" height="33">
+  <!-- HZI Logo - cropped and scaled to match other footer logos -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #0055a4;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="st0" d="M17,13V0h6v32H17V20H7v12H0V0h6v13h11Z"/>
+    <path class="st0" d="M47,1c0.3,0,0.5,0.1,0.7,0.3l2,2c0.2,0.2,0.3,0.5,0.3,0.7v1.6l-14,22h14v6h-19c-0.3,0-0.5-0.1-0.7-0.3l-2-2c-0.2-0.2-0.3-0.5-0.3-0.7v-1.6l14-22h-14V1h30Z"/>
+    <path class="st0" d="M64,32H58V1h6v31Z"/>
+  </g>
+</svg>
