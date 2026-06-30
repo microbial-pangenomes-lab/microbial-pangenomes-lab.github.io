@@ -14,7 +14,7 @@ Hien did a great job, and has a result she did not need to make any changes to h
 
 <img class="img-fluid" src="{{ site.url }}/static/img/news/20260630_graduation.jpg" alt="A photo of Hien with her PhD hat">
 
-Fun fact: while Hien was defending her thesis, her long-running experiment in our Chi.Bio bioreactors was still running
+Fun fact: while Hien was defending her thesis, her long-running experiment in our [Chi.Bio bioreactors](https://chi.bio/) was still running
 in a very warm lab. Such are the joys of automated laboratory evolution!
 
 <img class="img-fluid" src="{{ site.url }}/static/img/news/20260630_graduation_2.jpg" alt="A photo of Hien receiving her diploma">
