@@ -1,7 +1,7 @@
 name: "Microbial Pangenomes Lab"
 description: "This is the official web page for the Microbial Pangenomes Lab at Twincore."
 
-url: "http://microbial-pangenomes-lab.github.io"
+url: "https://microbial-pangenomes-lab.github.io"
 
 paginate: 5
 plugins: [jekyll-paginate]

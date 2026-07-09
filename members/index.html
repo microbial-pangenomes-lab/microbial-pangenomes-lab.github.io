@@ -11,7 +11,7 @@ group: members
 <div class="row">
 {% for person in site.data.members %}
     <div id = "{{person.short}}" style="padding-bottom: 30px" class="col-sm-4">
-        <img class="img-fluid" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"; width="250"; height="250"><br>
+        <img class="img-fluid" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}" width="250" height="250"><br>
         <strong>{{person.name}}</strong> <br>
         {{person.position}} <br>
         <em>{{person.email}}</em> <br>
@@ -25,16 +25,16 @@ group: members
           <a href= "https://{{person.mastodon-domain}}/@{{person.mastodon-user}}"><img class="inline-block mem-icon" src="/static/img/mastodon_logo.svg"></a>
         {% endif %}
         {% if person.orcid %}
-        <a href="http://orcid.org/{{person.orcid}}"><img class="inline-block mem-icon" src="/static/img/orcidid_logo.svg"></a>
+        <a href="https://orcid.org/{{person.orcid}}"><img class="inline-block mem-icon" src="/static/img/orcidid_logo.svg"></a>
         {% endif %}
         {% if person.linkedin %}
-        <a href="http://www.linkedin.com/in/{{person.linkedin}}"><img class="inline-block mem-icon" src="/static/img/lin_logo.svg"></a>
+        <a href="https://www.linkedin.com/in/{{person.linkedin}}"><img class="inline-block mem-icon" src="/static/img/lin_logo.svg"></a>
         {% endif %}
         {% if person.scholar %}
-        <a href="http://scholar.google.com/citations?user={{person.scholar}}"><img class="inline-block mem-icon" src="/static/img/gscholar_logo.svg"></a>
+        <a href="https://scholar.google.com/citations?user={{person.scholar}}"><img class="inline-block mem-icon" src="/static/img/gscholar_logo.svg"></a>
         {% endif %}
         {% if person.github %}
-        <a href="http://github.com/{{person.github}}"><img class="inline-bloc mem-icon" src="/static/img/github_logo.svg"></a>
+        <a href="https://github.com/{{person.github}}"><img class="inline-block mem-icon" src="/static/img/github_logo.svg"></a>
         {% endif %}
         {% if person.website %}
           <br>

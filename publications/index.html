@@ -15,7 +15,7 @@ group: publications
 
 {% for publication in site.data.publications %}
 <hr>
-<div class="row" style="padding-top: 20px; margin-top: - 20px;">
+<div class="row" style="padding-top: 20px; margin-top: -20px;">
 	<ul class="col-sm-8">
 	        <div style="font-size: 120%; font-weight: bolder !important; width: 100%">{{ publication.title | markdownify }}</div><div>{{ publication.citation | markdownify }}</div>
 	        
@@ -28,46 +28,46 @@ group: publications
 			<strong>Access the paper</strong>
 			<!--PMID-->
 			{% if publication.pmid %}
-			<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
+			<li>PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}"> {{publication.pmid}}</a></li>
 			{% endif %}
 
 			<!--PMCID - optional -->
 			{% if publication.pmcid %}
-			<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>
+			<li>PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}"> {{publication.pmcid}}</a></li>
 			{% endif %}
 
 			<!--Biorxiv - optional -->
 			{% if publication.biorxiv %}
-			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a></li>
+			<li>Biorxiv Preprint: <a href="https://dx.doi.org/10.1101/{{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a></li>
 			{% endif %}
 			
 			<!--Medrxiv - optional -->
 			{% if publication.medrxiv %}
-			<li>Medrxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.medrxiv}}" alt = "medrxiv preprint link: {{publication.medrxiv}}"> {{publication.medrxiv}}</a></li>
+			<li>Medrxiv Preprint: <a href="https://dx.doi.org/10.1101/{{publication.medrxiv}}"> {{publication.medrxiv}}</a></li>
 			{% endif %}
 			<!--Medrxiv - new DOI, optional -->
 			{% if publication.medrxiv2 %}
-			<li>Medrxiv Preprint: <a href="http://dx.doi.org/10.64898/{{publication.medrxiv2}}" alt = "medrxiv preprint link: {{publication.medrxiv2}}"> {{publication.medrxiv2}}</a></li>
+			<li>Medrxiv Preprint: <a href="https://dx.doi.org/10.64898/{{publication.medrxiv2}}"> {{publication.medrxiv2}}</a></li>
 			{% endif %}
 
 			<!--Arxiv - optional -->
 			{% if publication.arxiv %}
-			<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{publication.arxiv}}" alt = "arxiv preprint link: {{publication.arxiv}}"> {{publication.arxiv}}</a></li>
+			<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{publication.arxiv}}"> {{publication.arxiv}}</a></li>
 			{% endif %}
 
 			<!--Chemrxiv - optional -->
 			{% if publication.chemrxiv %}
-			<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}" alt = "chemrxiv preprint link: {{publication.chemrxiv}}"> {{publication.chemrxiv}}</a></li>
+			<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}"> {{publication.chemrxiv}}</a></li>
 			{% endif %}
 
 			<!--DOI - optional -->
 			{% if publication.doi %}
-			<li>Preprint: <a href="https://doi.org/{{publication.doi}}" alt = "preprint link: {{publication.doi}}"> {{publication.doi}}</a></li>
+			<li>Preprint: <a href="https://doi.org/{{publication.doi}}"> {{publication.doi}}</a></li>
 			{% endif %}
 			
             <!-- PDF -->
 			{% if publication.pdf %}
-			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
+			<li><a href="{{publication.pdf}}"> Full Text</a></li>
             {% endif %}
 
 			<!-- Datasets - optional -->
@@ -76,11 +76,11 @@ group: publications
 				{% if publication.data.size > 1 %}
 				<ul>
 					{% for dataset in publication.data %}
-					<li><a href="http://dx.doi.org/{{dataset}}" alt = "sbgrid data repository">doi:{{dataset}}</a></li>
+					<li><a href="https://dx.doi.org/{{dataset}}">doi:{{dataset}}</a></li>
 					{% endfor %}
 				</ul>
 				{% else %}
-				<a href="http://dx.doi.org/{{publication.data}}" alt = "sbgrid data repository">doi:{{publication.data}}</a>
+				<a href="https://dx.doi.org/{{publication.data}}">doi:{{publication.data}}</a>
 				{% endif %}
 			</li>
 			{% endif %}
@@ -99,7 +99,7 @@ group: publications
 			<!--Extra junk-->
 			<strong>Additional Links</strong>
 			{% for link in publication.links %}
-			<li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
+			<li><a href="{{link.url}}">{{link.name}}</a></li>
 			{% endfor %}
 			
             <br/>
@@ -135,49 +135,49 @@ group: publications
         
         <!--PMID-->
         {% if publication.pmid %}
-        PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a>
+        PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}"> {{publication.pmid}}</a>
         </br>
         {% endif %}
 
         <!--PMCID - optional -->
         {% if publication.pmcid %}
-        PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a>
+        PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}"> {{publication.pmcid}}</a>
         <br>
         {% endif %}
 
         <!--Biorxiv - optional -->
         {% if publication.biorxiv %}
-        Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a>
+        Biorxiv Preprint: <a href="https://dx.doi.org/10.1101/{{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a>
         <br>
         {% endif %}
         
         <!--Medrxiv - optional -->
         {% if publication.medrxiv %}
-        Medrxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.medrxiv}}" alt = "medrxiv preprint link: {{publication.medrxiv}}"> {{publication.medrxiv}}</a>
+        Medrxiv Preprint: <a href="https://dx.doi.org/10.1101/{{publication.medrxiv}}"> {{publication.medrxiv}}</a>
         <br>
         {% endif %}
 
         <!--Arxiv - optional -->
         {% if publication.arxiv %}
-        arXiv Preprint: <a href="https://arxiv.org/abs/{{publication.arxiv}}" alt = "arxiv preprint link: {{publication.arxiv}}"> {{publication.arxiv}}</a>
+        arXiv Preprint: <a href="https://arxiv.org/abs/{{publication.arxiv}}"> {{publication.arxiv}}</a>
         <br>
         {% endif %}
 
         <!--Chemrxiv - optional -->
         {% if publication.chemrxiv %}
-        ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}" alt = "chemrxiv preprint link: {{publication.chemrxiv}}"> {{publication.chemrxiv}}</a>
+        ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}"> {{publication.chemrxiv}}</a>
         <br>
         {% endif %}
 
         <!--DOI - optional -->
         {% if publication.doi %}
-        Preprint: <a href="https://doi.org/{{publication.doi}}" alt = "preprint link: {{publication.doi}}"> {{publication.doi}}</a>
+        Preprint: <a href="https://doi.org/{{publication.doi}}"> {{publication.doi}}</a>
         <br>
         {% endif %}
 			
         <!-- PDF -->
         {% if publication.pdf %}
-        <a href="{{publication.pdf}}" alt = "PDF"> Full Text</a>
+        <a href="{{publication.pdf}}"> Full Text</a>
         <br>
         {% endif %}
 
@@ -187,12 +187,12 @@ group: publications
             {% if publication.data.size > 1 %}
             <ul>
                 {% for dataset in publication.data %}
-                <a href="http://dx.doi.org/{{dataset}}" alt = "sbgrid data repository">doi:{{dataset}}</a></li>
+                <a href="https://dx.doi.org/{{dataset}}">doi:{{dataset}}</a></li>
                 <br>
                 {% endfor %}
             </ul>
             {% else %}
-            <a href="http://dx.doi.org/{{publication.data}}" alt = "sbgrid data repository">doi:{{publication.data}}</a>
+            <a href="https://dx.doi.org/{{publication.data}}">doi:{{publication.data}}</a>
             {% endif %}
         <br>
         {% endif %}
@@ -209,7 +209,7 @@ group: publications
         <!--Extra junk-->
         {% if publication.links %}
         {% for link in publication.links %}
-        Extra: <a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a>
+        Extra: <a href="{{link.url}}">{{link.name}}</a>
         <br>
         {% endfor %}
         {% endif %}

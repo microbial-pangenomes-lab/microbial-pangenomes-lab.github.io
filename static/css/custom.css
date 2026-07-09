@@ -1,10 +1,4 @@
 
-@media (min-width: 992px) {
-   .collapse {
-       display: none !important;
-   }
-}
-
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
