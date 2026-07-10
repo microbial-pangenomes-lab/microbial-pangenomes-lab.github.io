@@ -50,3 +50,37 @@ body {
 blockquote {
   margin: 0 30px 1rem 30px;
 }
+
+/* News pagination: space the page numbers out and give them button-like padding */
+.pagination {
+  gap: 0.375rem;
+  flex-wrap: wrap;
+  margin: 1rem 0;
+}
+
+.pagination li a,
+.pagination li span {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  line-height: 1.25;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.pagination li a:hover {
+  background-color: #e9ecef;
+  color: #0056b3;
+}
+
+.pagination li.active span {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+/* Disabled Prev/Next (plain span, no class) */
+.pagination li span {
+  color: #6c757d;
+}
