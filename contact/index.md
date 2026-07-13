@@ -14,7 +14,7 @@ group: contact
   Molecular Bacteriology  <br>
   Twincore  <br>
   email: galardini.marco (at) mh-hannover.de <br>
-  tel: +49 (0)511 220027 208 <br>
+  tel: +49 (0)511-220027-450 <br>
 </div>
 
 <div class="col col-md-3 offset-md-5 d-none d-md-block">
