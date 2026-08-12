@@ -46,6 +46,23 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide"
+   citation: "**Mulkern, A. J.**, **Vu, T.-H.**, Popella, L., Kerrinnes, T., Ðurica-Mitić, S., Halte, M., Dresbach-Hill, K., Uhlemann, A.-C., Uphoff, S., Barquist, L., Vogel, J., & **Galardini, M.** (2026). A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide. Nature Communications, 17(1), 8262. https://doi.org/10.1038/s41467-026-76357-y"
+   date: '202608'
+   image: '/static/img/pub/mulkern_2024.jpg'
+   biorxiv: '2024.10.29.620885'
+   links:
+     - name: Summary blog post (preprint)
+       url: "../2024/10/30/Stress-testing-next-generation-antibiotics/"
+     - name: Summary blog post (final version)
+       url: "../2026/08/12/A-slow-review-process-that-paid-off/"
+     - name: Analysis repository
+       url: https://github.com/microbial-pangenomes-lab/2024_aso_evolution
+     - name: Raw sequencing reads
+       url: https://www.ebi.ac.uk/ena/browser/view/PRJEB81806
+     - name: Link on publisher's website
+       url: https://www.nature.com/articles/s41467-026-76357-y
+ 
  - title: "Coupling time-aware SNP thresholds with genetic markers to define bacterial transmission chains in hospital surveillance"
    citation: "**Burgaya, J.**, Erdmann, J., Knegendorf, L., Baier, C., Strunin, D., Marvig, R. L., Nielsen, K. L., Hertz, F. B., Schlueter, D., Haeussler, S., & **Galardini, M.** (2026). Coupling time-aware SNP thresholds with genetic markers to define bacterial transmission chains in hospital surveillance (p. 2026.04.27.26351816). medRxiv. https://doi.org/10.64898/2026.04.27.26351816"
    date: '202605'
@@ -90,19 +107,6 @@
        url: "https://www.resist-cluster.de/en/better-prediction-of-bacterial-properties/"
      - name: Press release (Twincore, in German)
        url: "https://twincore.de/de/mitteilungen/bakterien-eigenschaften-besser-vorhersagbar/"
- 
- - title: "A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide"
-   citation: "**Mulkern, A. J.**, **Vu, T.-H.**, Popella, L., Kerrinnes, T., Đurica-Mitić, S., Barquist, L., Vogel, J., & **Galardini, M.** (2024). A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide (p. 2024.10.29.620885). bioRxiv. https://doi.org/10.1101/2024.10.29.620885"
-   date: '202410'
-   image: '/static/img/pub/mulkern_2024.jpg'
-   biorxiv: '2024.10.29.620885'
-   links:
-     - name: Summary blog post
-       url: "../2024/10/30/Stress-testing-next-generation-antibiotics/"
-     - name: Analysis repository
-       url: https://github.com/microbial-pangenomes-lab/2024_aso_evolution
-     - name: Raw sequencing reads
-       url: https://www.ebi.ac.uk/ena/browser/view/PRJEB81806
  
  - title: "Real-time identification of epistatic interactions in SARS-CoV-2 from large genome collections"
    citation: "**Innocenti, G.**, Obara, M., Costa, B., Jacobsen, H., Katzmarzyk, M., Cicin-Sain, L., Kalinke, U., & **Galardini, M.** (2024). Real-time identification of epistatic interactions in SARS-CoV-2 from large genome collections. Genome Biology, 25(1), 228."
