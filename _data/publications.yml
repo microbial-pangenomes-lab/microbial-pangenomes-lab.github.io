@@ -51,6 +51,8 @@
    date: '202608'
    image: '/static/img/pub/mulkern_2024.jpg'
    biorxiv: '2024.10.29.620885'
+   pmid: '42586984'
+   pmcid: 'PMC13469510'
    links:
      - name: Summary blog post (preprint)
        url: "../2024/10/30/Stress-testing-next-generation-antibiotics/"
