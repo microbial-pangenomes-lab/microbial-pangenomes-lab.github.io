@@ -46,6 +46,12 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Pervasive phosphorylation by phage T7 kinase disarms bacterial defenses"
+   citation: "Bartolec, T., Mitosch, K., Potel, C., Corona, F., Yang, A. L. J., ... **Galardini, M.**, Typas, A., & Savitski, M. M. (2026). Pervasive phosphorylation by phage T7 kinase disarms bacterial defences. Nature, 1–11."
+   date: '202608'
+   biorxiv: '2024.12.20.629319'
+   pmid: '42618789'
+ 
  - title: "Suppression of gut colonization by multidrug-resistant Escherichia coli clinical isolates through cooperative niche exclusion"
    citation: "Wende, M., Osbelt, L., Eisenhard, L., Lesker, T. R., **Damaris, B. F.**, ... Schaufler, K., Schlüter, D., **Galardini, M.**, & Strowig, T. (2025). Suppression of gut colonization by multidrug-resistant Escherichia coli clinical isolates through cooperative niche exclusion. Nature Communications, 16(1), 5426."
    date: '202507'
@@ -61,11 +67,6 @@
    biorxiv: '2024.06.04.597298'
    pmid: '40263263'
    pmcid: 'PMC12015411'
- 
- - title: "Pervasive phosphorylation by phage T7 kinase disarms bacterial defenses"
-   citation: "Bartolec, T., Mitosch, K., Potel, C., Corona, F., Yang, A. L. J., Burtscher, M. L., ... **Galardini, M.**, ... & Savitski, M. M. (2024). Pervasive phosphorylation by phage T7 kinase disarms bacterial defenses. bioRxiv, 2024-12."
-   date: '202412'
-   biorxiv: '2024.12.20.629319'
  
  - title: "Anti-CRISPR Anopheles mosquitoes inhibit gene drive spread under challenging behavioural conditions in large cages"
    citation: "D’Amato, R., Taxiarchi, C., **Galardini, M.**, Trusso, A., Minuz, R. L., Grilli, S., Somerville, A. G. T., Shittu, D., Khalil, A. S., Galizi, R., Crisanti, A., Simoni, A., & Müller, R. (2024). Anti-CRISPR Anopheles mosquitoes inhibit gene drive spread under challenging behavioural conditions in large cages. Nature Communications, 15(1), Article 1."
