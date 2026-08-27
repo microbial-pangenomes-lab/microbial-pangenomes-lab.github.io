@@ -64,6 +64,8 @@
        url: https://www.ebi.ac.uk/ena/browser/view/PRJEB81806
      - name: Link on publisher's website
        url: https://www.nature.com/articles/s41467-026-76357-y
+     - name: Press release
+       url: "https://twincore.de/news/staying-one-step-ahead-of-resistance"
  
  - title: "Coupling time-aware SNP thresholds with genetic markers to define bacterial transmission chains in hospital surveillance"
    citation: "**Burgaya, J.**, Erdmann, J., Knegendorf, L., Baier, C., Strunin, D., Marvig, R. L., Nielsen, K. L., Hertz, F. B., Schlueter, D., Haeussler, S., & **Galardini, M.** (2026). Coupling time-aware SNP thresholds with genetic markers to define bacterial transmission chains in hospital surveillance (p. 2026.04.27.26351816). medRxiv. https://doi.org/10.64898/2026.04.27.26351816"
