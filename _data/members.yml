@@ -44,6 +44,15 @@
   github: mason-2000
     # started March 2026
 
+- name: Katharina Grabowski
+  short: kgrabowski
+  image: /static/img/members/grabowski.jpg
+#  altimage: /static/img/members/djamalova_alt.jpg
+  position: PhD student (ZIB, supported by BaKlimON)
+  email: katharina.grabowski (at) twincore.de
+  linkedin: katharina-grabowski-194024216
+    # started August 2026
+
   #- name: Hannes Sommer
   #short: hsommer
   #image: /static/img/members/sommer.jpg
