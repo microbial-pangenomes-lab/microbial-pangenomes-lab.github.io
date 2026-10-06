@@ -44,6 +44,15 @@
   linkedin: katharina-grabowski-194024216
     # started August 2026
 
+- name: Terril Nazareth
+  short: tnazareth
+  image: /static/img/members/nazareth.jpg
+#  #  altimage: /static/img/members/djamalova_alt.jpg
+  position: Master Student (DigiStructMed)
+    #  email: gabriel.innocenti (at) twincore.de
+  github: terriljoel
+  linkedin: terril-joel-nazareth-298516191
+
     #- name: Vũ Thu Hiền
     #  short: hvuthu
     #  image: /static/img/members/hien.jpg
