@@ -1,0 +1,26 @@
+---
+title: Software from the lab
+layout: default
+group: software
+---
+
+<h2>Software from the lab</h2>
+
+<p>
+Below are the main software packages developed in the lab. Most of them live in the
+<a href="https://github.com/microbial-pangenomes-lab">lab's GitHub organization</a>,
+where you can also find the analysis code for most of our <a href="/publications">publications</a>.
+</p>
+
+<ul class="list-unstyled">
+{% for tool in site.data.software %}
+<li>
+	<hr>
+	<div style="font-size: 120%; font-weight: bolder !important;">{{ tool.name }}</div>
+	<div>{{ tool.description }}</div>
+	<a href="{{ tool.repo }}">Repository</a>
+	{% if tool.docs %} &middot; <a href="{{ tool.docs }}">Documentation</a>{% endif %}
+	{% for paper in tool.papers %} &middot; <a href="{{ paper.url }}">{{ paper.name }}</a>{% endfor %}
+</li>
+{% endfor %}
+</ul>

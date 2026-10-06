@@ -1,0 +1,58 @@
+#Style Guide: Software
+# name - the tool's name as it appears in the repository
+# description - one sentence, double quotes
+# repo - full URL to the code repository
+# docs - online documentation (optional, omit if not available)
+# papers - list of papers describing the tool (optional)
+#   name - short label shown as the link text (e.g. "Burgaya et al., Microbial Genomics, 2025")
+#   url - preferably a DOI link
+
+#Example
+# - name: toolname
+#   description: "What the tool does."
+#   repo: https://github.com/microbial-pangenomes-lab/toolname
+#   docs: https://toolname.readthedocs.io
+#   papers:
+#     - name: Surname et al., Journal, YYYY
+#       url: https://doi.org/10.xxxx/xxxxx
+
+ - name: microGWAS
+   description: "A computational pipeline to perform large-scale bacterial genome-wide association studies, from genome assemblies to annotated hits."
+   repo: https://github.com/microbial-pangenomes-lab/microGWAS
+   docs: https://microgwas.readthedocs.io
+   papers:
+     - name: Burgaya, Damaris, Fiebig et al., Microbial Genomics, 2025
+       url: https://doi.org/10.1099/mgen.0.001349
+
+ - name: pyseer
+   description: "Sequence element enrichment analysis for microbial pangenome-wide association studies, reimplemented in python."
+   repo: https://github.com/mgalardini/pyseer
+   docs: https://pyseer.readthedocs.io
+   papers:
+     - name: Lees, Galardini et al., Bioinformatics, 2018
+       url: https://doi.org/10.1093/bioinformatics/bty539
+
+ - name: panfeed
+   description: "A k-mer counter that streams gene-cluster specific k-mers while keeping positional information, for more interpretable bacterial GWAS."
+   repo: https://github.com/microbial-pangenomes-lab/panfeed
+   papers:
+     - name: Sommer, Djamalova et al., Microbial Genomics, 2023
+       url: https://doi.org/10.1099/mgen.0.001129
+
+ - name: tenet
+   description: "Transmission Events NETworks: a pipeline to go from bacterial genome assemblies to transmission events networks."
+   repo: https://github.com/jburgaya/tenet
+   papers:
+     - name: Burgaya et al., medRxiv preprint, 2026
+       url: https://doi.org/10.64898/2026.04.27.26351816
+
+ - name: SARS-CoV-2 epistasis
+   description: "Estimation of epistatic interactions from large SARS-CoV-2 genome collections, using mutual information."
+   repo: https://github.com/microbial-pangenomes-lab/2022_sarscov2_epistasis
+   papers:
+     - name: Innocenti et al., Genome Biology, 2024
+       url: https://doi.org/10.1186/s13059-024-03355-y
+
+ - name: plate_reader_evolution
+   description: "Tools to run and analyse evolution experiments in microplate formats: parsing plate reader data, computing growth rates and MICs, plotting, and Opentrons robot protocols."
+   repo: https://github.com/microbial-pangenomes-lab/plate_reader_evolution

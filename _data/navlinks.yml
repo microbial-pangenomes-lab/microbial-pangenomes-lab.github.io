@@ -14,6 +14,10 @@
   link: "/members"
   group: members
 
+- name: software
+  link: "/software"
+  group: software
+
 - name: news
   link: "/news"
   group: news
