@@ -25,15 +25,6 @@
   and end up reading about volcano eruptions \
   and space exploration."
 
-- name: Vũ Thu Hiền
-  short: hvuthu
-  image: /static/img/members/hien.jpg
-#  altimage: /static/img/members/djamalova_alt.jpg
-  position: PhD student (ZIB, supported by DAAD)
-  email: thuhien.vu (at) twincore.de
-  twitter: vuthuhien176
-  # started October 2023
-
 - name: Alessio Masoni
   short: amasoni
   image: /static/img/members/masoni.jpg
@@ -52,6 +43,15 @@
   email: katharina.grabowski (at) twincore.de
   linkedin: katharina-grabowski-194024216
     # started August 2026
+
+    #- name: Vũ Thu Hiền
+    #  short: hvuthu
+    #  image: /static/img/members/hien.jpg
+#  altimage: /static/img/members/djamalova_alt.jpg
+#  position: PhD student (ZIB, supported by DAAD)
+#  email: thuhien.vu (at) twincore.de
+#  twitter: vuthuhien176
+  # started October 2023
 
   #- name: Hannes Sommer
   #short: hsommer
