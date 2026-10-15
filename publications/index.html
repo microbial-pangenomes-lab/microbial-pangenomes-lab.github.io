@@ -37,6 +37,11 @@ group: publications
 			{% endif %}
 
 			<!--Biorxiv - optional -->
+			{% if publication.biorxiv2 %}
+			<li>Biorxiv Preprint: <a href="https://dx.doi.org/10.64898/{{publication.biorxiv2}}"> {{publication.biorxiv2 | split: "." | last }}</a></li>
+			{% endif %}
+
+			<!--Biorxiv - optional -->
 			{% if publication.biorxiv %}
 			<li>Biorxiv Preprint: <a href="https://dx.doi.org/10.1101/{{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a></li>
 			{% endif %}
