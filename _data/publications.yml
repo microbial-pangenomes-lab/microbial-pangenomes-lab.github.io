@@ -46,6 +46,20 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Development of a stable microbial community for the study of plasmid-mediated antimicrobial resistance in a continuous culturing device"
+   citation: "**Vu, T.-H.**, Alonso-Vásquez, T., Sestini, E., **Masoni, A.**, **Grabowski, K.**, Andrieu, C., Laganenka, L., Patti, F. D., Fondi, M., & **Galardini, M.** (2026). Development of a stable microbial community for the study of plasmid-mediated antimicrobial resistance in a continuous culturing device (p. 2026.10.13.758845). bioRxiv. https://doi.org/10.64898/2026.10.13.758845"
+   date: '202610'
+   image: '/static/img/pub/vu_2026.png'
+   #pmid: '39932497'
+   biorxiv2: '2026.10.13.758845'
+   links:
+     - name: Summary blog post
+       url: "../2026/10/15/A-glowing-family-in-a-bottle/"
+     - name: Analysis code repository
+       url: https://github.com/microbial-pangenomes-lab/2026_tricomm
+     - name: Analysis code repository (sequencing)
+       url: https://github.com/microbial-pangenomes-lab/2026_tricomm_sequencing
+ 
  - title: "A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide"
    citation: "**Mulkern, A. J.**, **Vu, T.-H.**, Popella, L., Kerrinnes, T., Ðurica-Mitić, S., Halte, M., Dresbach-Hill, K., Uhlemann, A.-C., Uphoff, S., Barquist, L., Vogel, J., & **Galardini, M.** (2026). A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide. Nature Communications, 17(1), 8262. https://doi.org/10.1038/s41467-026-76357-y"
    date: '202608'
