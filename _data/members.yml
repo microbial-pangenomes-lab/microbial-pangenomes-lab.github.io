@@ -44,6 +44,16 @@
   linkedin: katharina-grabowski-194024216
     # started August 2026
 
+- name: Mahmoud Saad
+  short: mmohamed
+  image: /static/img/members/mohamed.jpg
+#  altimage: /static/img/members/djamalova_alt.jpg
+  position: PhD student (ZIB, co-supervised with Leonard Knegendorf)
+  email: mahmoud.mohamed (at) twincore.de
+  scholar: uPd3lcsAAAAJ
+  linkedin: mahmoud-saad-4a065a329
+    # started August 2026
+
 - name: Terril Nazareth
   short: tnazareth
   image: /static/img/members/nazareth.jpg
