@@ -46,6 +46,22 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
+ - title: "Cis genetic variation drives gene expression changes in the E. coli and P. aeruginosa pangenomes"
+   citation: "**Damaris, B. F.**, **Vu, T.-H.**, Zietek, M., Heroven, A. K., Erdmann, J., Typas, A., Häussler, S., & **Galardini, M.** (2026). Cis genetic variation drives gene expression changes in the E. coli and P. aeruginosa pangenomes. Molecular Systems Biology. https://doi.org/10.1038/s44320-026-00245-2"
+   date: '202611'
+   image: '/static/img/pub/damaris_2025.jpg'
+   #pmid: '39932497'
+   biorxiv: '2025.06.10.658842'
+   links:
+     - name: Summary blog post (preprint)
+       url: "../2025/06/10/When-the-culprit-is-under-your-nose/"
+     - name: Summary blog post (final version)
+       url: "../2026/11/24/When-the-culprit-is-still-under-your-nose/"
+     - name: Analysis code repository
+       url: https://github.com/microbial-pangenomes-lab/bacterial_transcription
+     - name: Link on publisher's website
+       url: https://link.springer.com/article/10.1038/s44320-026-00245-2
+ 
  - title: "Development of a stable microbial community for the study of plasmid-mediated antimicrobial resistance in a continuous culturing device"
    citation: "**Vu, T.-H.**, Alonso-Vásquez, T., Sestini, E., **Masoni, A.**, **Grabowski, K.**, Andrieu, C., Laganenka, L., Patti, F. D., Fondi, M., & **Galardini, M.** (2026). Development of a stable microbial community for the study of plasmid-mediated antimicrobial resistance in a continuous culturing device (p. 2026.10.13.758845). bioRxiv. https://doi.org/10.64898/2026.10.13.758845"
    date: '202610'
@@ -93,18 +109,6 @@
      - name: Analysis code repository
        url: https://github.com/jburgaya/2025_genomics_transmission
 
- - title: "Cis non-coding genetic variation drives gene expression changes in the E. coli and P. aeruginosa pangenomes"
-   citation: "**Damaris, B. F.**, Zietek, M., Erdmann, J., Typas, A., Häussler, S., & **Galardini, M.** (2025). Cis non-coding genetic variation drives gene expression changes in the E. coli and P. aeruginosa pangenomes (p. 2025.06.10.658842). bioRxiv. https://doi.org/10.1101/2025.06.10.658842"
-   date: '202506'
-   image: '/static/img/pub/damaris_2025.jpg'
-   #pmid: '39932497'
-   biorxiv: '2025.06.10.658842'
-   links:
-     - name: Summary blog post
-       url: "../2025/06/10/When-the-culprit-is-under-your-nose/"
-     - name: Analysis code repository
-       url: https://github.com/microbial-pangenomes-lab/bacterial_transcription
- 
  - title: "microGWAS: a computational pipeline to perform large scale bacterial genome-wide association studies"
    citation: "**Burgaya, J.**, **Damaris, B. F.**, **Fiebig, J.**, & **Galardini, M.** (2025). microGWAS: A computational pipeline to perform large-scale bacterial genome-wide association studies. Microbial Genomics, 11(2), 001349."
    date: '202502'

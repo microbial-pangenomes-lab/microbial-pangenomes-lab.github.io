@@ -25,7 +25,7 @@ work both in the dry- and wet-lab, a feat that not many people can achieve!
 Bamu indeed found that it was possible to identify at least one genetic variant whose presence
 was associated with gene expression changes in up to 39% of tested genes in two important
 bacterial pathogens (*E. coli* and *P. aeruginosa*). Using the right way to represent the
-complex genetic variation (*i.e.* [gene-centric k-mers]({{ site.url }}/news/2023/11/09/Multiple-haystacks-are-beter-than-one/))
+complex genetic variation (*i.e.* [gene-centric k-mers]({{ site.url }}/2023/11/09/Multiple-haystacks-are-beter-than-one/))
 allowed Bamu to capture the highest proportion of associations.
 
 <img class="img-fluid" src="{{ site.url }}/static/img/news/20250610_bars.jpg" alt="Barplots indicating the main results from the association analysis">
