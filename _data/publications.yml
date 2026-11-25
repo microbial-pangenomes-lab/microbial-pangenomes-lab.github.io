@@ -50,7 +50,7 @@
    citation: "**Damaris, B. F.**, **Vu, T.-H.**, Zietek, M., Heroven, A. K., Erdmann, J., Typas, A., Häussler, S., & **Galardini, M.** (2026). Cis genetic variation drives gene expression changes in the E. coli and P. aeruginosa pangenomes. Molecular Systems Biology. https://doi.org/10.1038/s44320-026-00245-2"
    date: '202611'
    image: '/static/img/pub/damaris_2025.jpg'
-   #pmid: '39932497'
+   pmid: '43078968'
    biorxiv: '2025.06.10.658842'
    links:
      - name: Summary blog post (preprint)
